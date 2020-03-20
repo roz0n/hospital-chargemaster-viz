@@ -1,7 +1,6 @@
 import "./App.css";
 import React, { useEffect, useState } from "react";
 import Radium from "radium";
-
 import Sidebar from "./components/Sidebar";
 import { ProductProps } from "./components/ProductList/ProductList.types";
 
@@ -50,7 +49,67 @@ const sampleProducts: ProductProps[] = [
     label: "Towel 2-Pack",
     price: 125,
     hospitalId: 12
-  }
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12
+  },
 ];
 
 const App: React.FC = () => {

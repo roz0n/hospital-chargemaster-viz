@@ -1,18 +1,21 @@
 import React from "react";
 import Radium from "radium";
+import { ProductListCardProps } from "../ProductList.types";
 
-import { ProductProps } from "../ProductList.types";
+const ProductListCard: React.FC<ProductListCardProps> = (props) => {
+  const { product, onClick } = props;
+  const { label, price, hospitalId } = product;
 
-const ProductListCard: React.FC<ProductProps> = (props) => {
-  const { label, price, hospitalId } = props;
   const styles: object = {
+    boxSizing: "border-box",
     backgroundColor: "#FFFFFF",
     margin: ".5rem",
-    padding: ".25rem"
+    padding: ".25rem",
+    borderRadius: "2px"
   };
 
   return (
-    <article style={styles}>
+    <article style={styles} onClick={(e) => onClick(e, label, price)}>
       <div>
         {label}
       </div>
