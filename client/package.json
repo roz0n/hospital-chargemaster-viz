@@ -6,17 +6,11 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "@types/jest": "^25.1.4",
-    "@types/node": "^13.9.2",
-    "@types/radium": "^0.24.2",
-    "@types/react": "^16.9.23",
-    "@types/react-dom": "^16.9.5",
     "radium": "^0.26.0",
-    "react": "^16.13.0",
+    "react": "^16.13.1",
     "react-animations": "^1.0.0",
-    "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0",
-    "typescript": "^3.8.3"
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.0"
   },
   "scripts": {
     "start": "react-scripts start",

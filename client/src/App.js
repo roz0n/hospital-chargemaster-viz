@@ -1,11 +1,10 @@
+
 import "./App.css";
 import React, { useEffect, useState } from "react";
 import Radium from "radium";
-
 import Sidebar from "./components/Sidebar";
-import { ProductProps } from "./components/ProductList/ProductList.types";
 
-const sampleProducts: ProductProps[] = [
+const sampleProducts = [
   {
     label: "Medicine 20MG",
     price: 90000,
@@ -50,10 +49,70 @@ const sampleProducts: ProductProps[] = [
     label: "Towel 2-Pack",
     price: 125,
     hospitalId: 12
-  }
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12
+  },
 ];
 
-const App: React.FC = () => {
+const App = () => {
   const [data, setData] = useState(null);
   const [error, setError] = useState(null);
   const [sidebarVisible, setSidebarVisible] = useState(false);
