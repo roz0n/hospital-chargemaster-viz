@@ -1,114 +1,114 @@
-
 import "./App.css";
 import React, { useEffect, useState } from "react";
 import Radium from "radium";
+import { slideInRight } from "react-animations";
 import Sidebar from "./components/Sidebar";
 
 const sampleProducts = [
   {
     label: "Medicine 20MG",
     price: 90000,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Some drillbut 12MM",
     price: 562,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Towel 2-Pack",
     price: 125,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Some drillbut 12MM",
     price: 562,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Towel 2-Pack",
     price: 125,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Some drillbut 12MM",
     price: 562,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Towel 2-Pack",
     price: 125,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Some drillbut 12MM",
     price: 562,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Towel 2-Pack",
     price: 125,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Some drillbut 12MM",
     price: 562,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Towel 2-Pack",
     price: 125,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Some drillbut 12MM",
     price: 562,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Towel 2-Pack",
     price: 125,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Some drillbut 12MM",
     price: 562,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Towel 2-Pack",
     price: 125,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Some drillbut 12MM",
     price: 562,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Towel 2-Pack",
     price: 125,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Some drillbut 12MM",
     price: 562,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Towel 2-Pack",
     price: 125,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Some drillbut 12MM",
     price: 562,
-    hospitalId: 12
+    hospitalId: 12,
   },
   {
     label: "Towel 2-Pack",
     price: 125,
-    hospitalId: 12
+    hospitalId: 12,
   },
 ];
 
@@ -142,21 +142,37 @@ const App = () => {
   }
 
   return (
-    <div>
-      {error ? <div>{error}</div> : (
+    <main>
+      {error ? (
+        <div>{error}</div>
+      ) : (
         <div>
-          <Sidebar
-            productList={sampleProducts}
-            isVisible={sidebarVisible}
-            toggleVisibility={handleSidebarToggle}
-          />
-          Is sidebar open: {sidebarVisible.toString()}
-          <br />
-          <button onClick={handleSidebarToggle}>Open sidebar</button>
+          {sidebarVisible && (
+            <section style={styles.slideIn}>
+              <Sidebar
+                productList={sampleProducts}
+                isVisible={sidebarVisible}
+                toggleVisibility={handleSidebarToggle}
+              />
+            </section>
+          )}
+
+          <section>
+            Is sidebar open: {sidebarVisible.toString()}
+            <br />
+            <button onClick={handleSidebarToggle}>Open sidebar</button>
+          </section>
         </div>
       )}
-    </div>
+    </main>
   );
-}
+};
+
+const styles = {
+  slideIn: {
+    animation: "x .25s",
+    animationName: Radium.keyframes(slideInRight, "slideInRight"),
+  },
+};
 
 export default Radium(App);
