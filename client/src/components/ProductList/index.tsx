@@ -2,7 +2,7 @@ import React from "react";
 import Radium from "radium";
 
 import ProductListCard from "../ProductList/ProductListCard";
-import { ProductListProps } from "../../typescript/interfaces";
+import { ProductListProps } from "../ProductList/ProductList.types";
 
 const ProductList: React.FC<ProductListProps> = (props) => {
   const { productList } = props;

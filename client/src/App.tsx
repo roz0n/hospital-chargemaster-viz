@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import Radium from "radium";
 
 import Sidebar from "./components/Sidebar";
-import { ProductProps } from "./typescript/interfaces";
+import { ProductProps } from "./components/ProductList/ProductList.types";
 
 const sampleProducts: ProductProps[] = [
   {
@@ -55,7 +55,7 @@ const sampleProducts: ProductProps[] = [
 
 const App: React.FC = () => {
   const [data, setData] = useState(null);
-  const [error, setError] = useState(false);
+  const [error, setError] = useState(null);
   const [sidebarVisible, setSidebarVisible] = useState(false);
 
   useEffect(() => {
@@ -66,10 +66,10 @@ const App: React.FC = () => {
         if (data.success) {
           setData(data);
         } else {
-          throw new Error("Error obtaining hospitals list");
+          throw new Error("Error");
         }
       } catch (error) {
-        setError(true);
+        setError(error.message || false);
       }
     }
 

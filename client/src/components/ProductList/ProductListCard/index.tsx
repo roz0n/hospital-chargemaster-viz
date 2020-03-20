@@ -1,7 +1,7 @@
 import React from "react";
 import Radium from "radium";
 
-import { ProductProps } from "../../../typescript/interfaces";
+import { ProductProps } from "../ProductList.types";
 
 const ProductListCard: React.FC<ProductProps> = (props) => {
   const { label, price, hospitalId } = props;

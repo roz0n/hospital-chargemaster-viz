@@ -1,7 +1,7 @@
 import React from "react";
 import Radium from "radium";
 import ProductList from "../ProductList";
-import { SidebarProps } from "../../typescript/interfaces";
+import { SidebarProps } from "./Sidebar.types";
 
 const Sidebar: React.FC<SidebarProps> = (props) => {
   const { productList, isVisible, toggleVisibility } = props;
