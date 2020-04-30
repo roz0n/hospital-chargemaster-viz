@@ -1,0 +1,3199 @@
+[
+    {
+        "hospital_name": "Atlanticare Regional Medical Center",
+        "hospital_id": "atlanticare-regional-medical-center",
+        "hospital_url": "https://www.atlanticare.org/patients-and-visitors/for-patients/billing-and-insurance/hospital-charge-list",
+        "_id": 0,
+        "geoData": [
+            {
+                "place_id": 93213138,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 27877364,
+                "boundingbox": [
+                    "39.476261",
+                    "39.4814516",
+                    "-74.54323",
+                    "-74.5369309"
+                ],
+                "lat": "39.4789057",
+                "lon": "-74.54023443951903",
+                "display_name": "AtlantiCare Regional Medical Center, 65, West Jimmie Leeds Road, Monticello Estates, Pinehurst, Galloway Township, Atlantic County, New Jersey, 08240, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.5626514353057295,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "AtlantiCare Regional Medical Center",
+                    "house_number": "65",
+                    "road": "West Jimmie Leeds Road",
+                    "neighbourhood": "Monticello Estates",
+                    "hamlet": "Pinehurst",
+                    "city": "Galloway Township",
+                    "county": "Atlantic County",
+                    "state": "New Jersey",
+                    "postcode": "08240",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Baptist Hospital (Miami)",
+        "hospital_id": "baptist-hospital-(miami)",
+        "hospital_url": "https://baptisthealth.net/en/facilities/baptist-hospital-miami/pages/default.aspx",
+        "_id": 3,
+        "geoData": [
+            {
+                "place_id": 3025760,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 358726541,
+                "boundingbox": [
+                    "25.7947698",
+                    "25.7948698",
+                    "-80.141572",
+                    "-80.141472"
+                ],
+                "lat": "25.7948198",
+                "lon": "-80.141522",
+                "display_name": "Miami Beach First Baptist Church, Sunset Drive, Miami Beach, Miami-Dade County, Florida, 33139, United States of America",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "importance": 0.201,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/place_of_worship_unknown3.p.20.png",
+                "address": {
+                    "place_of_worship": "Miami Beach First Baptist Church",
+                    "road": "Sunset Drive",
+                    "city": "Miami Beach",
+                    "county": "Miami-Dade County",
+                    "state": "Florida",
+                    "postcode": "33139",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Baptist Medical Center (Jacksonville)",
+        "hospital_id": "baptist-medical-center-(jacksonville)",
+        "hospital_url": "https://www.baptistjax.com/patient-info/billing-and-insurance-information/patient-cost-estimate-request/gross-charges",
+        "_id": 4,
+        "geoData": [
+            {
+                "place_id": 169773158,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 351665511,
+                "boundingbox": [
+                    "30.3142715",
+                    "30.31709",
+                    "-81.6659219",
+                    "-81.6607375"
+                ],
+                "lat": "30.315937750000003",
+                "lon": "-81.66325825709765",
+                "display_name": "Baptist Medical Center Jacksonville, 800, Prudential Drive, LaVilla, Brooklyn, Jacksonville, Duval County, Florida, 32207, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.6523278476590364,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Baptist Medical Center Jacksonville",
+                    "house_number": "800",
+                    "road": "Prudential Drive",
+                    "neighbourhood": "LaVilla",
+                    "hamlet": "Brooklyn",
+                    "city": "Jacksonville",
+                    "county": "Duval County",
+                    "state": "Florida",
+                    "postcode": "32207",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Barnes Jewish Hospital",
+        "hospital_id": "barnes-jewish-hospital",
+        "hospital_url": "https://www.bjc.org/For-Patients-Billing-Visitors/Financial-Assistance-Resources/BJC-Hospital-Standard-Charges",
+        "_id": 5,
+        "geoData": [
+            {
+                "place_id": 186139236,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 450129606,
+                "boundingbox": [
+                    "38.6348531",
+                    "38.6394614",
+                    "-90.2661853",
+                    "-90.2625174"
+                ],
+                "lat": "38.63734255",
+                "lon": "-90.26432457113503",
+                "display_name": "Barnes-Jewish Hospital, 1, Forest Park Parkway, Fountain Park, Central West End, St. Louis, City of Saint Louis, Missouri, 63110, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.6027787078968705,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Barnes-Jewish Hospital",
+                    "house_number": "1",
+                    "road": "Forest Park Parkway",
+                    "neighbourhood": "Fountain Park",
+                    "suburb": "Central West End",
+                    "city": "St. Louis",
+                    "county": "City of Saint Louis",
+                    "state": "Missouri",
+                    "postcode": "63110",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Brigham and Womens Hospital",
+        "hospital_id": "brigham-and-womens-hospital",
+        "hospital_url": "https://www.partners.org/for-patients/Patient-Billing-Financial-Assistance/Hospital-Charge-Listing.aspx",
+        "_id": 6,
+        "geoData": [
+            {
+                "place_id": 235800256,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "relation",
+                "osm_id": 3061383,
+                "boundingbox": [
+                    "42.3343318",
+                    "42.3376092",
+                    "-71.1096274",
+                    "-71.1015478"
+                ],
+                "lat": "42.335679999999996",
+                "lon": "-71.1060436296658",
+                "display_name": "Brigham and Women's Hospital, 75, Francis Street, Audubon Square, Fenway, Boston, Suffolk County, Massachusetts, 02115, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.6772086148031699,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Brigham and Women's Hospital",
+                    "house_number": "75",
+                    "road": "Francis Street",
+                    "neighbourhood": "Audubon Square",
+                    "suburb": "Fenway",
+                    "city": "Boston",
+                    "county": "Suffolk County",
+                    "state": "Massachusetts",
+                    "postcode": "02115",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "California Pacific Medical Center",
+        "hospital_id": "california-pacific-medical-center",
+        "hospital_url": "https://www.sutterhealth.org/cpmc/for-patients/health-care-costs-and-charges",
+        "_id": 7,
+        "geoData": [
+            {
+                "place_id": 125058345,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 160705973,
+                "boundingbox": [
+                    "37.7896325",
+                    "37.7916578",
+                    "-122.433754",
+                    "-122.4308603"
+                ],
+                "lat": "37.79050015",
+                "lon": "-122.43230860491363",
+                "display_name": "California Pacific Medical Center, 2333, Buchanan Street, Western Addition, San Francisco, San Francisco City and County, California, 94115, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.6830818704926234,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "California Pacific Medical Center",
+                    "house_number": "2333",
+                    "road": "Buchanan Street",
+                    "neighbourhood": "Western Addition",
+                    "city": "San Francisco",
+                    "county": "San Francisco City and County",
+                    "state": "California",
+                    "postcode": "94115",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Carolinas Medical Center",
+        "hospital_id": "carolinas-medical-center",
+        "hospital_url": "https://atriumhealth.org/for-patients-visitors/financial-assistance",
+        "_id": 9,
+        "geoData": [
+            {
+                "place_id": 146477443,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 239149691,
+                "boundingbox": [
+                    "35.1984596",
+                    "35.2082233",
+                    "-80.8416276",
+                    "-80.8369299"
+                ],
+                "lat": "35.20374595",
+                "lon": "-80.83931376395819",
+                "display_name": "Carolinas Medical Center, 1000, Blythe Boulevard, Myers Park, Dilworth, Charlotte, Mecklenburg County, North Carolina, 28203, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.5469815592908572,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Carolinas Medical Center",
+                    "house_number": "1000",
+                    "road": "Blythe Boulevard",
+                    "neighbourhood": "Myers Park",
+                    "hamlet": "Dilworth",
+                    "city": "Charlotte",
+                    "county": "Mecklenburg County",
+                    "state": "North Carolina",
+                    "postcode": "28203",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Cedars-Sinai Medical Center",
+        "hospital_id": "cedars-sinai-medical-center",
+        "hospital_url": "https://www.cedars-sinai.org/billing-insurance.html?_ga=2.134300401.1845895740.1546880925-1879661893.1546880925",
+        "_id": 10,
+        "geoData": [
+            {
+                "place_id": 201663639,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 534711293,
+                "boundingbox": [
+                    "34.0736708",
+                    "34.0767596",
+                    "-118.3832774",
+                    "-118.3781149"
+                ],
+                "lat": "34.0751604",
+                "lon": "-118.38109362449856",
+                "display_name": "Cedars-Sinai Medical Center, 8700, Beverly Boulevard, West Hollywood, Los Angeles County, California, 90048, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.8205354953257554,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Cedars-Sinai Medical Center",
+                    "house_number": "8700",
+                    "road": "Beverly Boulevard",
+                    "city": "West Hollywood",
+                    "county": "Los Angeles County",
+                    "state": "California",
+                    "postcode": "90048",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Central Dupage Hospital",
+        "hospital_id": "central-dupage-hospital",
+        "hospital_url": "https://www.nm.org/locations/central-dupage-hospital",
+        "_id": 11,
+        "geoData": [
+            {
+                "place_id": 235438610,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "relation",
+                "osm_id": 1800060,
+                "boundingbox": [
+                    "41.685323",
+                    "41.9937937",
+                    "-88.262883",
+                    "-87.9142039"
+                ],
+                "lat": "41.8603735",
+                "lon": "-88.0906873",
+                "display_name": "DuPage County, Illinois, United States of America",
+                "class": "boundary",
+                "type": "administrative",
+                "importance": 0.6417184541997288,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+                "address": {
+                    "county": "DuPage County",
+                    "state": "Illinois",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Cleveland Clinic Hospital",
+        "hospital_id": "cleveland-clinic-hospital",
+        "hospital_url": "https://my.clevelandclinic.org/patients/billing-insurance/patient-price-lists",
+        "_id": 13,
+        "geoData": [
+            {
+                "place_id": 111032438,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 109936193,
+                "boundingbox": [
+                    "26.0794724",
+                    "26.0844489",
+                    "-80.3679952",
+                    "-80.3625306"
+                ],
+                "lat": "26.08183545",
+                "lon": "-80.36525557266879",
+                "display_name": "Cleveland Clinic Hospital, 2950, Cleveland Clinic Boulevard, Weston, Broward County, Florida, 33331, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.30100000000000005,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Cleveland Clinic Hospital",
+                    "house_number": "2950",
+                    "road": "Cleveland Clinic Boulevard",
+                    "suburb": "Weston",
+                    "county": "Broward County",
+                    "state": "Florida",
+                    "postcode": "33331",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Cooper University Hospital",
+        "hospital_id": "cooper-university-hospital",
+        "hospital_url": "https://www.cooperhealth.org/patients-visitors/financial-matters/chargemaster",
+        "_id": 15,
+        "geoData": [
+            {
+                "place_id": 170432048,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 361974422,
+                "boundingbox": [
+                    "39.9395131",
+                    "39.942458",
+                    "-75.1200733",
+                    "-75.1129505"
+                ],
+                "lat": "39.941115249999996",
+                "lon": "-75.11636296169354",
+                "display_name": "Cooper University Hospital, 1, Cooper Plaza, Lanning Square, Whitman Park, Camden, Camden County, New Jersey, 08103, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.5924415519306158,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Cooper University Hospital",
+                    "house_number": "1",
+                    "road": "Cooper Plaza",
+                    "neighbourhood": "Lanning Square",
+                    "hamlet": "Whitman Park",
+                    "city": "Camden",
+                    "county": "Camden County",
+                    "state": "New Jersey",
+                    "postcode": "08103",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Covenant Health System",
+        "hospital_id": "covenant-health-system",
+        "hospital_url": "https://www.covenanthealth.org/patients-and-visitors/for-patients/billing-and-payments/pricing/",
+        "_id": 16,
+        "geoData": [
+            {
+                "place_id": 192039404,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 481107768,
+                "boundingbox": [
+                    "38.6413472",
+                    "38.6438745",
+                    "-90.2336883",
+                    "-90.2294414"
+                ],
+                "lat": "38.64258935",
+                "lon": "-90.23156818259181",
+                "display_name": "John Cochran Division - VA St. Louis Health Care System, 915, North Grand Boulevard, Covenant Blu Grand Center, St. Louis, City of Saint Louis, Missouri, 63106, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.30100000000000005,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "John Cochran Division - VA St. Louis Health Care System",
+                    "house_number": "915",
+                    "road": "North Grand Boulevard",
+                    "suburb": "Covenant Blu Grand Center",
+                    "city": "St. Louis",
+                    "county": "City of Saint Louis",
+                    "state": "Missouri",
+                    "postcode": "63106",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Crozer Chester Medical Center",
+        "hospital_id": "crozer-chester-medical-center",
+        "hospital_url": "https://www.crozerkeystone.org/patients-visitors/patient-financial-resources/consumer-price-transparency/",
+        "_id": 17,
+        "geoData": [
+            {
+                "place_id": 203886318,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 555775782,
+                "boundingbox": [
+                    "39.8534843",
+                    "39.8573182",
+                    "-75.3713715",
+                    "-75.3656262"
+                ],
+                "lat": "39.85541155",
+                "lon": "-75.36825021018319",
+                "display_name": "Crozer-Chester Medical Center, 1, Medical Center Boulevard, South Chester, Chester, Delaware County, Pennsylvania, 19013, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.411,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Crozer-Chester Medical Center",
+                    "house_number": "1",
+                    "road": "Medical Center Boulevard",
+                    "hamlet": "South Chester",
+                    "city": "Chester",
+                    "county": "Delaware County",
+                    "state": "Pennsylvania",
+                    "postcode": "19013",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Doctors Medical Center of Modesto",
+        "hospital_id": "doctors-medical-center-of-modesto",
+        "hospital_url": "https://www.dmc-modesto.com/for-patients/insurance-financial-support/billing-insurance-questions",
+        "_id": 19,
+        "geoData": [
+            {
+                "place_id": 101351250,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 62203480,
+                "boundingbox": [
+                    "37.663792",
+                    "37.6673166",
+                    "-120.9984491",
+                    "-120.9962819"
+                ],
+                "lat": "37.665562800000004",
+                "lon": "-120.99737101871051",
+                "display_name": "Doctors Medical Center, 1441, Florida Avenue, Aurora, Modesto, Stanislaus County, California, 95350, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.511,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Doctors Medical Center",
+                    "house_number": "1441",
+                    "road": "Florida Avenue",
+                    "hamlet": "Aurora",
+                    "city": "Modesto",
+                    "county": "Stanislaus County",
+                    "state": "California",
+                    "postcode": "95350",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Duke University Hospital",
+        "hospital_id": "duke-university-hospital",
+        "hospital_url": "https://www.dukehealth.org/paying-for-care/what-duke-charges-services",
+        "_id": 20,
+        "geoData": [
+            {
+                "place_id": 159755487,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 305879102,
+                "boundingbox": [
+                    "36.0062953",
+                    "36.0077115",
+                    "-78.9388869",
+                    "-78.9358985"
+                ],
+                "lat": "36.007021300000005",
+                "lon": "-78.93734788335824",
+                "display_name": "Duke University Hospital, 2301, Erwin Road, Crest Street, University Estates, Durham, Durham County, North Carolina, 27710, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.6127951394652661,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Duke University Hospital",
+                    "house_number": "2301",
+                    "road": "Erwin Road",
+                    "neighbourhood": "Crest Street",
+                    "hamlet": "University Estates",
+                    "city": "Durham",
+                    "county": "Durham County",
+                    "state": "North Carolina",
+                    "postcode": "27710",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Florida Hospital",
+        "hospital_id": "florida-hospital",
+        "hospital_url": "https://www.adventhealth.com/pricelist",
+        "_id": 21,
+        "geoData": [
+            {
+                "place_id": 234781235,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "relation",
+                "osm_id": 162050,
+                "boundingbox": [
+                    "24.396308",
+                    "31.000968",
+                    "-87.634896",
+                    "-79.974306"
+                ],
+                "lat": "27.7567667",
+                "lon": "-81.4639835",
+                "display_name": "Florida, United States of America",
+                "class": "boundary",
+                "type": "administrative",
+                "importance": 0.8612139727980621,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+                "address": {
+                    "state": "Florida",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Geisinger Medical Center",
+        "hospital_id": "geisinger-medical-center",
+        "hospital_url": "https://www.geisinger.org/patient-care/patients-and-visitors/billing-and-insurance/tools-to-use/hospital-charge-list",
+        "_id": 22,
+        "geoData": [
+            {
+                "place_id": 82590418,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 10597898,
+                "boundingbox": [
+                    "40.966707",
+                    "40.967103",
+                    "-76.605365",
+                    "-76.605347"
+                ],
+                "lat": "40.966707",
+                "lon": "-76.605347",
+                "display_name": "Geisinger Medical Center, Mechanicsville, Montour County, Pennsylvania, 17822, United States of America",
+                "class": "highway",
+                "type": "residential",
+                "importance": 0.4,
+                "address": {
+                    "road": "Geisinger Medical Center",
+                    "hamlet": "Mechanicsville",
+                    "locality": "Mechanicsville",
+                    "county": "Montour County",
+                    "state": "Pennsylvania",
+                    "postcode": "17822",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Grady Memorial Hospital",
+        "hospital_id": "grady-memorial-hospital",
+        "hospital_url": "https://www.gradyhealth.org/billing-and-insurance/",
+        "_id": 23,
+        "geoData": [
+            {
+                "place_id": 152034099,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 270880941,
+                "boundingbox": [
+                    "33.7508235",
+                    "33.7526429",
+                    "-84.3829524",
+                    "-84.3811796"
+                ],
+                "lat": "33.7517323",
+                "lon": "-84.3820052053816",
+                "display_name": "Grady Memorial Hospital, 80, Jesse Hill Junior Drive Southeast, Sweet Auburn, Vine City, Atlanta, Fulton County, Georgia, 30303, United States of America",
+                "class": "building",
+                "type": "hospital",
+                "importance": 0.6158021943488056,
+                "address": {
+                    "address29": "Grady Memorial Hospital",
+                    "house_number": "80",
+                    "road": "Jesse Hill Junior Drive Southeast",
+                    "neighbourhood": "Sweet Auburn",
+                    "hamlet": "Vine City",
+                    "city": "Atlanta",
+                    "county": "Fulton County",
+                    "state": "Georgia",
+                    "postcode": "30303",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Grossmont Hospital",
+        "hospital_id": "grossmont-hospital",
+        "hospital_url": "https://www.sharp.com/chargemaster/grossmont/",
+        "_id": 24,
+        "geoData": [
+            {
+                "place_id": 72244082,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 6184516687,
+                "boundingbox": [
+                    "32.7767742",
+                    "32.7867742",
+                    "-117.0163209",
+                    "-117.0063209"
+                ],
+                "lat": "32.7817742",
+                "lon": "-117.0113209",
+                "display_name": "Grossmont, Grossmont Center Drive, Grossmont, La Mesa, San Diego County, California, 91942, United States of America",
+                "class": "railway",
+                "type": "station",
+                "importance": 0.3919504140408089,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/transport_train_station2.p.20.png",
+                "address": {
+                    "station": "Grossmont",
+                    "road": "Grossmont Center Drive",
+                    "hamlet": "Grossmont",
+                    "city": "La Mesa",
+                    "county": "San Diego County",
+                    "state": "California",
+                    "postcode": "91942",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Hahnemann University Hospital",
+        "hospital_id": "hahnemann-university-hospital",
+        "hospital_url": "https://www.hahnemannhospital.com/SitePages/For-Patients-and-Visitors/Insurance%20and%20Financial%20Support.aspx",
+        "_id": 25,
+        "geoData": [
+            {
+                "place_id": 284766383,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 795452862,
+                "boundingbox": [
+                    "39.9563228",
+                    "39.9577852",
+                    "-75.164357",
+                    "-75.1626655"
+                ],
+                "lat": "39.95687289999999",
+                "lon": "-75.16354750109718",
+                "display_name": "Hahnemann University Hospital, 230, North Broad Street, Spring Garden, Philadelphia, Philadelphia County, Pennsylvania, 19102, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.6088174755556057,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Hahnemann University Hospital",
+                    "house_number": "230",
+                    "road": "North Broad Street",
+                    "neighbourhood": "Spring Garden",
+                    "city": "Philadelphia",
+                    "county": "Philadelphia County",
+                    "state": "Pennsylvania",
+                    "postcode": "19102",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Henry Ford Hospital",
+        "hospital_id": "henry-ford-hospital",
+        "hospital_url": "https://www.henryford.com/visitors/billing/cost-of-care/hospital-standard-charges",
+        "_id": 26,
+        "geoData": [
+            {
+                "place_id": 190650956,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 469341318,
+                "boundingbox": [
+                    "42.3655735",
+                    "42.3700279",
+                    "-83.0885045",
+                    "-83.0824439"
+                ],
+                "lat": "42.36764305",
+                "lon": "-83.08537549754047",
+                "display_name": "Henry Ford Hospital, 2799, West Grand Boulevard, LaSalle Gardens, New Center, Detroit, Wayne County, Michigan, 48202, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.670940340656356,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Henry Ford Hospital",
+                    "house_number": "2799",
+                    "road": "West Grand Boulevard",
+                    "neighbourhood": "LaSalle Gardens",
+                    "suburb": "New Center",
+                    "city": "Detroit",
+                    "county": "Wayne County",
+                    "state": "Michigan",
+                    "postcode": "48202",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Hospital of the University of Pennsylvania",
+        "hospital_id": "hospital-of-the-university-of-pennsylvania",
+        "hospital_url": "https://www.pennmedicine.org/for-patients-and-visitors/patient-information/insurance-and-billing/financial-transparency/financial-transparency-for-the-hospital-of-the-university-of-pennsylvania",
+        "_id": 27,
+        "geoData": [
+            {
+                "place_id": 99595830,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 50033013,
+                "boundingbox": [
+                    "39.9488498",
+                    "39.9507311",
+                    "-75.196034",
+                    "-75.192672"
+                ],
+                "lat": "39.94994805",
+                "lon": "-75.19409620806792",
+                "display_name": "Hospital of the University of Pennsylvania, 3400, Spruce Street, University City, Philadelphia, Philadelphia County, Pennsylvania, 19104, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.8823437491030711,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Hospital of the University of Pennsylvania",
+                    "house_number": "3400",
+                    "road": "Spruce Street",
+                    "neighbourhood": "University City",
+                    "city": "Philadelphia",
+                    "county": "Philadelphia County",
+                    "state": "Pennsylvania",
+                    "postcode": "19104",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Huntsville Hospital",
+        "hospital_id": "huntsville-hospital",
+        "hospital_url": "https://www.huntsvillehospital.org/price-transparency",
+        "_id": 28,
+        "geoData": [
+            {
+                "place_id": 196109019,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 511127008,
+                "boundingbox": [
+                    "34.7187534",
+                    "34.7224163",
+                    "-86.5852745",
+                    "-86.5794928"
+                ],
+                "lat": "34.7205801",
+                "lon": "-86.58101733422603",
+                "display_name": "Huntsville Hospital, 101, Sivley Road Southwest, Medical District, Longwood, Huntsville, Madison County, Alabama, 35801, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.21100000000000002,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Huntsville Hospital",
+                    "house_number": "101",
+                    "road": "Sivley Road Southwest",
+                    "neighbourhood": "Medical District",
+                    "hamlet": "Longwood",
+                    "city": "Huntsville",
+                    "county": "Madison County",
+                    "state": "Alabama",
+                    "postcode": "35801",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Indiana University Health",
+        "hospital_id": "indiana-university-health",
+        "hospital_url": "https://cdn.iuhealth.org/resources/2019-Charge-CMS-Transparency.txt?mtime=20181221134951",
+        "_id": 29,
+        "geoData": [
+            {
+                "place_id": 134742979,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 201575826,
+                "boundingbox": [
+                    "39.7805189",
+                    "39.7809889",
+                    "-86.1592065",
+                    "-86.1586218"
+                ],
+                "lat": "39.7807424",
+                "lon": "-86.1589993",
+                "display_name": "Indiana University Health, 950, North Meridian Street, Old Northside Historic District, Woodruff Place, Indianapolis, Marion County, Indiana, 46208, United States of America",
+                "class": "building",
+                "type": "commercial",
+                "importance": 0.31100000000000005,
+                "address": {
+                    "address29": "Indiana University Health",
+                    "house_number": "950",
+                    "road": "North Meridian Street",
+                    "neighbourhood": "Old Northside Historic District",
+                    "hamlet": "Woodruff Place",
+                    "city": "Indianapolis",
+                    "county": "Marion County",
+                    "state": "Indiana",
+                    "postcode": "46208",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Jackson Memorial",
+        "hospital_id": "jackson-memorial",
+        "hospital_url": "http://jacksonhealth.org/hb-221-hb-1175.asp#4",
+        "_id": 30,
+        "geoData": [
+            {
+                "place_id": 275619956,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 7177801715,
+                "boundingbox": [
+                    "42.2320544",
+                    "42.2321544",
+                    "-84.4267212",
+                    "-84.4266212"
+                ],
+                "lat": "42.2321044",
+                "lon": "-84.4266712",
+                "display_name": "Randolph Street, Jackson, Jackson County, Michigan, 49203, United States of America",
+                "class": "historic",
+                "type": "memorial",
+                "importance": 0.11100000000000002,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/tourist_monument.p.20.png",
+                "address": {
+                    "road": "Randolph Street",
+                    "town": "Jackson",
+                    "county": "Jackson County",
+                    "state": "Michigan",
+                    "postcode": "49203",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "JFK Medical Center",
+        "hospital_id": "jfk-medical-center",
+        "hospital_url": "https://jfkmc.com/about/legal/detail-price-list.dot",
+        "_id": 31,
+        "geoData": [
+            {
+                "place_id": 192336885,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 484639582,
+                "boundingbox": [
+                    "40.5549414",
+                    "40.5577782",
+                    "-74.3531157",
+                    "-74.3471833"
+                ],
+                "lat": "40.556357399999996",
+                "lon": "-74.35017766380267",
+                "display_name": "JFK Medical Center, 65, James Street, Menlo Park, Edison, Middlesex County, New Jersey, 08818, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.4746177363283245,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "JFK Medical Center",
+                    "house_number": "65",
+                    "road": "James Street",
+                    "hamlet": "Menlo Park",
+                    "city": "Edison",
+                    "county": "Middlesex County",
+                    "state": "New Jersey",
+                    "postcode": "08818",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Kennestone Hospital",
+        "hospital_id": "kennestone-hospital",
+        "hospital_url": "https://www.wellstar.org/about-us/policies-procedures/pages/wellstar-hospital-pricing-transparency.aspx",
+        "_id": 32,
+        "geoData": [
+            {
+                "place_id": 82924196,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 9151333,
+                "boundingbox": [
+                    "33.9681693",
+                    "33.9681838",
+                    "-84.5460808",
+                    "-84.5443079"
+                ],
+                "lat": "33.9681838",
+                "lon": "-84.5448363",
+                "display_name": "Kennestone Drive Northeast, Elizabeth, Marietta, Cobb County, Georgia, 30060, United States of America",
+                "class": "highway",
+                "type": "residential",
+                "importance": 0.19999999999999998,
+                "address": {
+                    "road": "Kennestone Drive Northeast",
+                    "suburb": "Elizabeth",
+                    "city": "Marietta",
+                    "county": "Cobb County",
+                    "state": "Georgia",
+                    "postcode": "30060",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Las Palmas Medical Center",
+        "hospital_id": "las-palmas-medical-center",
+        "hospital_url": "https://laspalmasdelsolhealthcare.com/about/legal/detail-price-list.dot",
+        "_id": 33,
+        "geoData": [
+            {
+                "place_id": 204094154,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 562875873,
+                "boundingbox": [
+                    "31.7689443",
+                    "31.7710354",
+                    "-106.4996141",
+                    "-106.4970607"
+                ],
+                "lat": "31.7699876",
+                "lon": "-106.49834227113362",
+                "display_name": "Las Palmas Medical Center, 1801, North Oregon Street, Mission Hills, El Paso, El Paso County, Texas, 79902, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.401,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Las Palmas Medical Center",
+                    "house_number": "1801",
+                    "road": "North Oregon Street",
+                    "hamlet": "Mission Hills",
+                    "city": "El Paso",
+                    "county": "El Paso County",
+                    "state": "Texas",
+                    "postcode": "79902",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Loma Linda University Medical Center",
+        "hospital_id": "loma-linda-university-medical-center",
+        "hospital_url": "https://oshpd.ca.gov/data-and-reports/cost-transparency/hospital-chargemasters/2018-chargemasters/",
+        "_id": 34,
+        "geoData": [
+            {
+                "place_id": 208239616,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 587067953,
+                "boundingbox": [
+                    "34.0485061",
+                    "34.0503008",
+                    "-117.2656017",
+                    "-117.2612675"
+                ],
+                "lat": "34.04911185",
+                "lon": "-117.26343554537584",
+                "display_name": "Loma Linda University Medical Center, 11234, Anderson Street, Bryn Mawr, Loma Linda, San Bernardino County, California, 92354, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.8092269946660902,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Loma Linda University Medical Center",
+                    "house_number": "11234",
+                    "road": "Anderson Street",
+                    "hamlet": "Bryn Mawr",
+                    "city": "Loma Linda",
+                    "county": "San Bernardino County",
+                    "state": "California",
+                    "postcode": "92354",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Long Island Jewish Medical Center",
+        "hospital_id": "long-island-jewish-medical-center",
+        "hospital_url": "https://www.northwell.edu/billing-and-insurance/price-transparency",
+        "_id": 35,
+        "geoData": [
+            {
+                "place_id": 203031194,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 556302075,
+                "boundingbox": [
+                    "40.7522739",
+                    "40.7556203",
+                    "-73.7111619",
+                    "-73.7053764"
+                ],
+                "lat": "40.753922700000004",
+                "lon": "-73.70854636873798",
+                "display_name": "Long Island Jewish Medical Center, 270-05, 76th Avenue, Glen Oaks, Queens, New York, Queens County, New York, 11040, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.7999978272098043,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Long Island Jewish Medical Center",
+                    "house_number": "270-05",
+                    "road": "76th Avenue",
+                    "neighbourhood": "Glen Oaks",
+                    "suburb": "Queens",
+                    "city": "New York",
+                    "county": "Queens County",
+                    "state": "New York",
+                    "postcode": "11040",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Lucile Packard Childrens Hospital",
+        "hospital_id": "lucile-packard-childrens-hospital",
+        "hospital_url": "https://oshpd.ca.gov/data-and-reports/cost-transparency/hospital-chargemasters/2018-chargemasters/",
+        "_id": 36,
+        "geoData": [
+            {
+                "place_id": 116899074,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 130100416,
+                "boundingbox": [
+                    "37.4354242",
+                    "37.4367348",
+                    "-122.1757978",
+                    "-122.1742635"
+                ],
+                "lat": "37.436052700000005",
+                "lon": "-122.17517413494636",
+                "display_name": "Lucile Packard Children's Hospital, 725, Welch Road, Stanford, Palo Alto, Santa Clara County, California, 94304, United States of America",
+                "class": "building",
+                "type": "hospital",
+                "importance": 0.595064603083614,
+                "address": {
+                    "address29": "Lucile Packard Children's Hospital",
+                    "house_number": "725",
+                    "road": "Welch Road",
+                    "hamlet": "Stanford",
+                    "city": "Palo Alto",
+                    "county": "Santa Clara County",
+                    "state": "California",
+                    "postcode": "94304",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Massachusetts General Hospital",
+        "hospital_id": "massachusetts-general-hospital",
+        "hospital_url": "https://www.partners.org/for-patients/Patient-Billing-Financial-Assistance/Hospital-Charge-Listing.aspx",
+        "_id": 37,
+        "geoData": [
+            {
+                "place_id": 114381090,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 117853077,
+                "boundingbox": [
+                    "42.3612432",
+                    "42.3642121",
+                    "-71.0706432",
+                    "-71.0670374"
+                ],
+                "lat": "42.362917949999996",
+                "lon": "-71.06873742261993",
+                "display_name": "Massachusetts General Hospital, 55, Fruit Street, Downtown Crossing, Beacon Hill, Boston, Suffolk County, Massachusetts, 02114, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.7701262496514902,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Massachusetts General Hospital",
+                    "house_number": "55",
+                    "road": "Fruit Street",
+                    "neighbourhood": "Downtown Crossing",
+                    "suburb": "Beacon Hill",
+                    "city": "Boston",
+                    "county": "Suffolk County",
+                    "state": "Massachusetts",
+                    "postcode": "02114",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Medical City Dallas Hospital",
+        "hospital_id": "medical-city-dallas-hospital",
+        "hospital_url": "https://medicalcityhospital.com/patient-financial/?page_name=pricing",
+        "_id": 38,
+        "geoData": [
+            {
+                "place_id": 236185542,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "relation",
+                "osm_id": 6854002,
+                "boundingbox": [
+                    "32.9109948",
+                    "32.9133158",
+                    "-96.7750295",
+                    "-96.7719067"
+                ],
+                "lat": "32.91214135",
+                "lon": "-96.77385308766483",
+                "display_name": "Medical City Dallas Hospital, 7777, Forest Lane, Gifford, Dallas, Dallas County, Texas, 75243, United States of America",
+                "class": "building",
+                "type": "hospital",
+                "importance": 0.411,
+                "address": {
+                    "address29": "Medical City Dallas Hospital",
+                    "house_number": "7777",
+                    "road": "Forest Lane",
+                    "hamlet": "Gifford",
+                    "city": "Dallas",
+                    "county": "Dallas County",
+                    "state": "Texas",
+                    "postcode": "75243",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Medical University of South Carolina",
+        "hospital_id": "medical-university-of-south-carolina",
+        "hospital_url": "http://scpricepoint.org/ReportINP.aspx",
+        "_id": 39,
+        "geoData": [
+            {
+                "place_id": 236426353,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "relation",
+                "osm_id": 7201333,
+                "boundingbox": [
+                    "32.7812207",
+                    "32.7888901",
+                    "-79.9540524",
+                    "-79.9438626"
+                ],
+                "lat": "32.78553865",
+                "lon": "-79.9517057940751",
+                "display_name": "The Medical University of South Carolina, 171, Gadsden Green Homes, Charleston, Charleston County, South Carolina, 29425, United States of America",
+                "class": "leisure",
+                "type": "park",
+                "importance": 0.8620860770895533,
+                "address": {
+                    "park": "The Medical University of South Carolina",
+                    "house_number": "171",
+                    "hamlet": "Gadsden Green Homes",
+                    "city": "Charleston",
+                    "county": "Charleston County",
+                    "state": "South Carolina",
+                    "postcode": "29425",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Memorial Hermann Texas Medical Center",
+        "hospital_id": "memorial-hermann-texas-medical-center",
+        "hospital_url": "https://www.memorialhermann.org/patients-caregivers/pricing-estimates-and-information/",
+        "_id": 41,
+        "geoData": [
+            {
+                "place_id": 139128424,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 220549848,
+                "boundingbox": [
+                    "29.7125937",
+                    "29.7144569",
+                    "-95.3971652",
+                    "-95.3942248"
+                ],
+                "lat": "29.713526700000003",
+                "lon": "-95.39627451784479",
+                "display_name": "Memorial Hermann-Texas Medical Center, 6411, Fannin Street, Texas Medical Center, South Lawn, Houston, Harris County, Texas, 77030, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.7602548452552094,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Memorial Hermann-Texas Medical Center",
+                    "house_number": "6411",
+                    "road": "Fannin Street",
+                    "neighbourhood": "Texas Medical Center",
+                    "hamlet": "South Lawn",
+                    "city": "Houston",
+                    "county": "Harris County",
+                    "state": "Texas",
+                    "postcode": "77030",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Memorial Regional Hospital",
+        "hospital_id": "memorial-regional-hospital",
+        "hospital_url": "https://www.mhs.net/patients-visitors/billing/charges",
+        "_id": 43,
+        "geoData": [
+            {
+                "place_id": 195499282,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 506839382,
+                "boundingbox": [
+                    "26.0182238",
+                    "26.0208662",
+                    "-80.1818416",
+                    "-80.178022"
+                ],
+                "lat": "26.01958385",
+                "lon": "-80.17993680948575",
+                "display_name": "Memorial Regional Hospital, 3501, Johnson Street, West Hollywood, Hollywood, Broward County, Florida, 33021, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.30100000000000005,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Memorial Regional Hospital",
+                    "house_number": "3501",
+                    "road": "Johnson Street",
+                    "hamlet": "West Hollywood",
+                    "suburb": "Hollywood",
+                    "county": "Broward County",
+                    "state": "Florida",
+                    "postcode": "33021",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Methodist Hospital (San Antonio)",
+        "hospital_id": "methodist-hospital-(san-antonio)",
+        "hospital_url": "https://sahealth.com/about/legal/detail-price-list.dot",
+        "_id": 45,
+        "geoData": [
+            {
+                "place_id": 103187875,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 79570923,
+                "boundingbox": [
+                    "29.5062279",
+                    "29.5103004",
+                    "-98.573789",
+                    "-98.5700922"
+                ],
+                "lat": "29.508434450000003",
+                "lon": "-98.57193321760892",
+                "display_name": "Methodist Hospital, 7700, Floyd Curl Drive, South Texas Medical Center, San Antonio, Bexar County, Texas, 78229, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.401,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Methodist Hospital",
+                    "house_number": "7700",
+                    "road": "Floyd Curl Drive",
+                    "commercial": "South Texas Medical Center",
+                    "city": "San Antonio",
+                    "county": "Bexar County",
+                    "state": "Texas",
+                    "postcode": "78229",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Montefiore Medical Center",
+        "hospital_id": "montefiore-medical-center",
+        "hospital_url": "https://www.montefiore.org/information-about-charges",
+        "_id": 47,
+        "geoData": [
+            {
+                "place_id": 155011914,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 277825013,
+                "boundingbox": [
+                    "40.8925656",
+                    "40.8943885",
+                    "-73.861745",
+                    "-73.8605856"
+                ],
+                "lat": "40.8934858",
+                "lon": "-73.86118490892177",
+                "display_name": "Montefiore Medical Center, Wakefield Campus, Bronx Boulevard, Williams Bridge, New York, The Bronx, Bronx County, New York, 10466, United States of America",
+                "class": "building",
+                "type": "hospital",
+                "importance": 0.30100000000000005,
+                "address": {
+                    "address29": "Montefiore Medical Center, Wakefield Campus",
+                    "road": "Bronx Boulevard",
+                    "neighbourhood": "Williams Bridge",
+                    "city": "New York",
+                    "suburb": "The Bronx",
+                    "county": "Bronx County",
+                    "state": "New York",
+                    "postcode": "10466",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Morristown Memorial Hospital",
+        "hospital_id": "morristown-memorial-hospital",
+        "hospital_url": "https://www.atlantichealth.org/patients-visitors/insurance/out-network-insurance.html",
+        "_id": 48,
+        "geoData": [
+            {
+                "place_id": 177292269,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 406532943,
+                "boundingbox": [
+                    "40.7879289",
+                    "40.7910447",
+                    "-74.4685935",
+                    "-74.4627344"
+                ],
+                "lat": "40.789571",
+                "lon": "-74.46568457708935",
+                "display_name": "Morristown Medical Center, 100, Madison Avenue, Morristown, Morris County, New Jersey, 07960, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.3357940944999783,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Morristown Medical Center",
+                    "house_number": "100",
+                    "road": "Madison Avenue",
+                    "town": "Morristown",
+                    "county": "Morris County",
+                    "state": "New Jersey",
+                    "postcode": "07960",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Mount Sinai Hospital",
+        "hospital_id": "mount-sinai-hospital",
+        "hospital_url": "https://www.mountsinai.org/about/insurance/cm-faq-msh",
+        "_id": 50,
+        "geoData": [
+            {
+                "place_id": 176060294,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 395304938,
+                "boundingbox": [
+                    "40.7876521",
+                    "40.791832",
+                    "-73.9546784",
+                    "-73.9514246"
+                ],
+                "lat": "40.7900429",
+                "lon": "-73.95317015019326",
+                "display_name": "The Mount Sinai Hospital, 1, Gustave L. Levy Place, East Harlem, Manhattan Community Board 11, New York, Manhattan, New York County, New York, 10129, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.7041099822435934,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "The Mount Sinai Hospital",
+                    "house_number": "1",
+                    "road": "Gustave L. Levy Place",
+                    "suburb": "East Harlem",
+                    "city": "Manhattan Community Board 11",
+                    "county": "New York County",
+                    "state": "New York",
+                    "postcode": "10129",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "New York Presbyterian Hospital",
+        "hospital_id": "new-york-presbyterian-hospital",
+        "hospital_url": "https://www.nyp.org/patients-and-visitors/paying-for-care",
+        "_id": 51,
+        "geoData": [
+            {
+                "place_id": 64407202,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 5455260637,
+                "boundingbox": [
+                    "40.7548876",
+                    "40.7549876",
+                    "-73.8931509",
+                    "-73.8930509"
+                ],
+                "lat": "40.7549376",
+                "lon": "-73.8931009",
+                "display_name": "New York Presbyterian, 73-15, Northern Boulevard, Jackson Heights, Queens, New York, Queens County, New York, 11370, United States of America",
+                "class": "place",
+                "type": "house",
+                "importance": 0.30100000000000005,
+                "address": {
+                    "house": "New York Presbyterian",
+                    "house_number": "73-15",
+                    "road": "Northern Boulevard",
+                    "neighbourhood": "Jackson Heights",
+                    "suburb": "Queens",
+                    "city": "New York",
+                    "county": "Queens County",
+                    "state": "New York",
+                    "postcode": "11370",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "New York University Hospitals Center",
+        "hospital_id": "new-york-university-hospitals-center",
+        "hospital_url": "https://med.nyu.edu/standard-charges/form/price-transparency-info-download/confirmation?token=B9bGu4DLNzR-ly23TGOd4NYWvFewtJ6m1K_jDE7nsD8",
+        "_id": 52,
+        "geoData": [
+            {
+                "place_id": 2814685,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 357642745,
+                "boundingbox": [
+                    "40.7318299",
+                    "40.7319299",
+                    "-73.9846307",
+                    "-73.9845307"
+                ],
+                "lat": "40.7318799",
+                "lon": "-73.9845807",
+                "display_name": "New York Eye and Ear Infirmary of Mount Sinai, 310, East 14th Street, East Village, New York, Manhattan Community Board 3, Manhattan, New York County, New York, 10003, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.4908124068742756,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "New York Eye and Ear Infirmary of Mount Sinai",
+                    "house_number": "310",
+                    "road": "East 14th Street",
+                    "suburb": "East Village",
+                    "city": "New York",
+                    "county": "New York County",
+                    "state": "New York",
+                    "postcode": "10003",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "North Carolina Baptist Hospital",
+        "hospital_id": "north-carolina-baptist-hospital",
+        "hospital_url": "https://www.wakehealth.edu/Patient-and-Family-Resources/Billing-and-Insurance/Your-Health-Care-Costs",
+        "_id": 53,
+        "geoData": [
+            {
+                "place_id": 189155385,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 466148586,
+                "boundingbox": [
+                    "36.087801",
+                    "36.0915464",
+                    "-80.271491",
+                    "-80.2637638"
+                ],
+                "lat": "36.08983775",
+                "lon": "-80.26771223216093",
+                "display_name": "Wake Forest Baptist Medical Center, 1, Medical Center Boulevard, Ardmore, Winston-Salem, Forsyth County, North Carolina, 27157, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.5745321115064418,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Wake Forest Baptist Medical Center",
+                    "house_number": "1",
+                    "road": "Medical Center Boulevard",
+                    "hamlet": "Ardmore",
+                    "city": "Winston-Salem",
+                    "county": "Forsyth County",
+                    "state": "North Carolina",
+                    "postcode": "27157",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "North Shore University Hospital",
+        "hospital_id": "north-shore-university-hospital",
+        "hospital_url": "https://www.northwell.edu/billing-and-insurance/price-transparency",
+        "_id": 54,
+        "geoData": [
+            {
+                "place_id": 119912070,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 140961466,
+                "boundingbox": [
+                    "40.7708245",
+                    "40.7792821",
+                    "-73.7032465",
+                    "-73.6976517"
+                ],
+                "lat": "40.775184100000004",
+                "lon": "-73.70096351353673",
+                "display_name": "North Shore University Hospital, 300, Community Drive, Lake Success, North Hempstead, Nassau County, New York, 11030, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.6480920830180936,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "North Shore University Hospital",
+                    "house_number": "300",
+                    "road": "Community Drive",
+                    "village": "Lake Success",
+                    "municipality": "North Hempstead",
+                    "county": "Nassau County",
+                    "state": "New York",
+                    "postcode": "11030",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Northshore University Health System",
+        "hospital_id": "northshore-university-health-system",
+        "hospital_url": "https://www.northshore.org/about-us/billing/standard-hospital-charges/",
+        "_id": 55,
+        "geoData": [
+            {
+                "place_id": 137276670,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 211548350,
+                "boundingbox": [
+                    "42.1834702",
+                    "42.1838931",
+                    "-87.9278271",
+                    "-87.9271929"
+                ],
+                "lat": "42.18368135",
+                "lon": "-87.92750984058202",
+                "display_name": "Northshore University Health System Immediate Care, Parkway Drive, Lincolnshire, Lake County, Illinois, 60069, United States of America",
+                "class": "building",
+                "type": "yes",
+                "importance": 0.401,
+                "address": {
+                    "building": "Northshore University Health System Immediate Care",
+                    "road": "Parkway Drive",
+                    "village": "Lincolnshire",
+                    "county": "Lake County",
+                    "state": "Illinois",
+                    "postcode": "60069",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Northside Hospital",
+        "hospital_id": "northside-hospital",
+        "hospital_url": "https://www.northside.com/billing-collections",
+        "_id": 56,
+        "geoData": [
+            {
+                "place_id": 72864585,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 6366201639,
+                "boundingbox": [
+                    "37.5637659",
+                    "37.5638659",
+                    "-77.433535",
+                    "-77.433435"
+                ],
+                "lat": "37.5638159",
+                "lon": "-77.433485",
+                "display_name": "NorthSide Hospital, 700, North Avenue, Highland Park, Richmond, Richmond City, Virginia, 23222, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.201,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "NorthSide Hospital",
+                    "house_number": "700",
+                    "road": "North Avenue",
+                    "suburb": "Highland Park",
+                    "city": "Richmond",
+                    "state": "Virginia",
+                    "postcode": "23222",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Northwestern Memorial Hospital",
+        "hospital_id": "northwestern-memorial-hospital",
+        "hospital_url": "https://www.nm.org/locations/northwestern-memorial-hospital",
+        "_id": 57,
+        "geoData": [
+            {
+                "place_id": 143108295,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 227605195,
+                "boundingbox": [
+                    "41.8942047",
+                    "41.8967203",
+                    "-87.6226933",
+                    "-87.6203792"
+                ],
+                "lat": "41.894981349999995",
+                "lon": "-87.6215362422612",
+                "display_name": "Northwestern Memorial Hospital, 251, East Huron Street, Chicago River North, Near North Side, Chicago, Cook County, Illinois, 60611, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.59190327427879,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Northwestern Memorial Hospital",
+                    "house_number": "251",
+                    "road": "East Huron Street",
+                    "neighbourhood": "Chicago River North",
+                    "suburb": "Near North Side",
+                    "city": "Chicago",
+                    "county": "Cook County",
+                    "state": "Illinois",
+                    "postcode": "60611",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Ohio State University Hospital",
+        "hospital_id": "ohio-state-university-hospital",
+        "hospital_url": "https://wexnermedical.osu.edu/patient-and-visitor-guide/patient-pricing-lists",
+        "_id": 60,
+        "geoData": [
+            {
+                "place_id": 235509114,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "relation",
+                "osm_id": 306632,
+                "boundingbox": [
+                    "39.9906496",
+                    "40.0745609",
+                    "-83.0802187",
+                    "-83.0072531"
+                ],
+                "lat": "40.00570905",
+                "lon": "-83.02866259769122",
+                "display_name": "The Ohio State University, Morning Street, Sharon Heights, Olentangy, Columbus, Franklin County, Ohio, 43214, United States of America",
+                "class": "amenity",
+                "type": "university",
+                "importance": 0.9010552600537748,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/education_university.p.20.png",
+                "address": {
+                    "university": "The Ohio State University",
+                    "road": "Morning Street",
+                    "neighbourhood": "Sharon Heights",
+                    "hamlet": "Olentangy",
+                    "city": "Columbus",
+                    "county": "Franklin County",
+                    "state": "Ohio",
+                    "postcode": "43214",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Orlando Health",
+        "hospital_id": "orlando-health",
+        "hospital_url": "https://www.orlandohealth.com/patients-and-visitors/patient-financial-resources/pricing-transparency-guide",
+        "_id": 61,
+        "geoData": [
+            {
+                "place_id": 49752986,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 3925713123,
+                "boundingbox": [
+                    "28.5209051",
+                    "28.5309051",
+                    "-81.3866526",
+                    "-81.3766526"
+                ],
+                "lat": "28.5259051",
+                "lon": "-81.3816526",
+                "display_name": "Orlando, 250, Columbia Street, Orlando, Orange County, Florida, 32806, United States of America",
+                "class": "railway",
+                "type": "station",
+                "importance": 0.3932082617679252,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/transport_train_station2.p.20.png",
+                "address": {
+                    "station": "Orlando",
+                    "house_number": "250",
+                    "road": "Columbia Street",
+                    "city": "Orlando",
+                    "county": "Orange County",
+                    "state": "Florida",
+                    "postcode": "32806",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Presbyterian Intercommunity Hospital",
+        "hospital_id": "presbyterian-intercommunity-hospital",
+        "hospital_url": "https://www.pihhealth.org/patients-visitors/billing-financial-assistance/cms-hospital-pricing/",
+        "_id": 62,
+        "geoData": [
+            {
+                "place_id": 236257153,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "relation",
+                "osm_id": 6941315,
+                "boundingbox": [
+                    "33.9681084",
+                    "33.9705839",
+                    "-118.0502324",
+                    "-118.047899"
+                ],
+                "lat": "33.969347049999996",
+                "lon": "-118.04894235538944",
+                "display_name": "Presbyterian Intercommunity Hospital, Washington Boulevard, South Whittier, Whittier, Los Angeles County, California, 90602, United States of America",
+                "class": "building",
+                "type": "hospital",
+                "importance": 0.30100000000000005,
+                "address": {
+                    "address29": "Presbyterian Intercommunity Hospital",
+                    "road": "Washington Boulevard",
+                    "neighbourhood": "South Whittier",
+                    "city": "Whittier",
+                    "county": "Los Angeles County",
+                    "state": "California",
+                    "postcode": "90602",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Riverside Methodist Hospital",
+        "hospital_id": "riverside-methodist-hospital",
+        "hospital_url": "https://www.ohiohealth.com/patients-and-visitors/paying-for-your-care/cost-of-services/",
+        "_id": 64,
+        "geoData": [
+            {
+                "place_id": 93873555,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 29979021,
+                "boundingbox": [
+                    "40.0295377",
+                    "40.0327149",
+                    "-83.0388974",
+                    "-83.0308807"
+                ],
+                "lat": "40.031082850000004",
+                "lon": "-83.03471619725235",
+                "display_name": "Riverside Methodist Hospital, 3535, Olentangy River Road, Olentangy West, Olentangy, Columbus, Franklin County, Ohio, 43214, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.527354491752902,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Riverside Methodist Hospital",
+                    "house_number": "3535",
+                    "road": "Olentangy River Road",
+                    "neighbourhood": "Olentangy West",
+                    "hamlet": "Olentangy",
+                    "city": "Columbus",
+                    "county": "Franklin County",
+                    "state": "Ohio",
+                    "postcode": "43214",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Robert Wood Johnson University Hospital",
+        "hospital_id": "robert-wood-johnson-university-hospital",
+        "hospital_url": "https://www.rwjbh.org/rwj-university-hospital-new-brunswick/billing/charges/",
+        "_id": 65,
+        "geoData": [
+            {
+                "place_id": 148569407,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 251382262,
+                "boundingbox": [
+                    "40.4944601",
+                    "40.4961357",
+                    "-74.4507633",
+                    "-74.4482584"
+                ],
+                "lat": "40.495306799999994",
+                "lon": "-74.44961154991981",
+                "display_name": "Robert Wood Johnson University Hospital, 1, Scott Street, Feaster Park, New Brunswick, Middlesex County, New Jersey, 08901, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.7868347429646153,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Robert Wood Johnson University Hospital",
+                    "house_number": "1",
+                    "road": "Scott Street",
+                    "hamlet": "Feaster Park",
+                    "city": "New Brunswick",
+                    "county": "Middlesex County",
+                    "state": "New Jersey",
+                    "postcode": "08901",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Ronald Reagan UCLA Medical Center",
+        "hospital_id": "ronald-reagan-ucla-medical-center",
+        "hospital_url": "https://oshpd.ca.gov/data-and-reports/cost-transparency/hospital-chargemasters/2018-chargemasters/",
+        "_id": 66,
+        "geoData": [
+            {
+                "place_id": 235857613,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "relation",
+                "osm_id": 2389785,
+                "boundingbox": [
+                    "34.0659985",
+                    "34.0669162",
+                    "-118.4471822",
+                    "-118.4454004"
+                ],
+                "lat": "34.0664646",
+                "lon": "-118.44650679402692",
+                "display_name": "Ronald Reagan UCLA Medical Center, 757, Westwood Plaza, Westwood Village, Westwood, Los Angeles, Los Angeles County, California, 90095, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.8831443499634848,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Ronald Reagan UCLA Medical Center",
+                    "house_number": "757",
+                    "road": "Westwood Plaza",
+                    "neighbourhood": "Westwood Village",
+                    "suburb": "Westwood",
+                    "city": "Los Angeles",
+                    "county": "Los Angeles County",
+                    "state": "California",
+                    "postcode": "90095",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Rush University Medical Center",
+        "hospital_id": "rush-university-medical-center",
+        "hospital_url": "https://www.rush.edu/patients-visitors/patients/pay-your-bill/cost-care",
+        "_id": 67,
+        "geoData": [
+            {
+                "place_id": 144800768,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 239001073,
+                "boundingbox": [
+                    "41.871623",
+                    "41.8751251",
+                    "-87.6715287",
+                    "-87.6666784"
+                ],
+                "lat": "41.8739038",
+                "lon": "-87.66911211124514",
+                "display_name": "Rush University Medical Center, 1653, West Congress Parkway, Near West Side, Illinois Medical District, Cook County, Illinois, 60612, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.6897018831470392,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Rush University Medical Center",
+                    "house_number": "1653",
+                    "road": "West Congress Parkway",
+                    "neighbourhood": "Near West Side",
+                    "suburb": "Near West Side",
+                    "city": "Illinois Medical District",
+                    "county": "Cook County",
+                    "state": "Illinois",
+                    "postcode": "60612",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Sharp Memorial Hospital",
+        "hospital_id": "sharp-memorial-hospital",
+        "hospital_url": "https://www.sharp.com/chargemaster/memorial/",
+        "_id": 69,
+        "geoData": [
+            {
+                "place_id": 207190744,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 570117771,
+                "boundingbox": [
+                    "32.7984739",
+                    "32.8001896",
+                    "-117.1560252",
+                    "-117.1531954"
+                ],
+                "lat": "32.79969815",
+                "lon": "-117.15435353818233",
+                "display_name": "Sharp Memorial Hospital, 7901, Frost Street, Birdland, Serra Mesa, San Diego, San Diego County, California, 92123, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.30100000000000005,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Sharp Memorial Hospital",
+                    "house_number": "7901",
+                    "road": "Frost Street",
+                    "neighbourhood": "Birdland",
+                    "suburb": "Serra Mesa",
+                    "city": "San Diego",
+                    "county": "San Diego County",
+                    "state": "California",
+                    "postcode": "92123",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Spectrum Health Hospitals",
+        "hospital_id": "spectrum-health-hospitals",
+        "hospital_url": "https://www.spectrumhealth.org/about-us/average-prices-for-grand-rapids-area",
+        "_id": 70,
+        "geoData": [
+            {
+                "place_id": 220379572,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 672324047,
+                "boundingbox": [
+                    "42.9759675",
+                    "42.9770496",
+                    "-85.6387715",
+                    "-85.6371253"
+                ],
+                "lat": "42.97650885",
+                "lon": "-85.6376507695343",
+                "display_name": "Spectrum Health Hospitals Rehabilitation and Nursing Center, Bradford Street Northeast, Grand Rapids, Kent County, Michigan, 49503, United States of America",
+                "class": "building",
+                "type": "hospital",
+                "importance": 0.30100000000000005,
+                "address": {
+                    "address29": "Spectrum Health Hospitals Rehabilitation and Nursing Center",
+                    "road": "Bradford Street Northeast",
+                    "city": "Grand Rapids",
+                    "county": "Kent County",
+                    "state": "Michigan",
+                    "postcode": "49503",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "St. Francis Medical Center",
+        "hospital_id": "st.-francis-medical-center",
+        "hospital_url": "https://www.sfmc.net/billing/price-transparency/",
+        "_id": 71,
+        "geoData": [
+            {
+                "place_id": 124909734,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 160184291,
+                "boundingbox": [
+                    "33.9287352",
+                    "33.9312202",
+                    "-118.2049135",
+                    "-118.2014615"
+                ],
+                "lat": "33.92988945",
+                "lon": "-118.20337215547707",
+                "display_name": "Saint Francis Medical Center, 3630, Birch Street, Lynwood Gardens, Lynwood, Los Angeles County, California, 90262, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.6591452947568411,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Saint Francis Medical Center",
+                    "house_number": "3630",
+                    "road": "Birch Street",
+                    "hamlet": "Lynwood Gardens",
+                    "town": "Lynwood",
+                    "county": "Los Angeles County",
+                    "state": "California",
+                    "postcode": "90262",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "St. Joseph’s Hospital (Tampa)",
+        "hospital_id": "st.-joseph’s-hospital-(tampa)",
+        "hospital_url": "https://baycare.org/billing-and-insurance?h=%7BE8674E87-55E2-4279-8327-5C27406EE723%7D",
+        "_id": 72,
+        "geoData": [
+            {
+                "place_id": 196370212,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 509866135,
+                "boundingbox": [
+                    "27.9814385",
+                    "27.9841056",
+                    "-82.4940314",
+                    "-82.4889565"
+                ],
+                "lat": "27.98275015",
+                "lon": "-82.49146365555421",
+                "display_name": "Saint Joseph's Hospital, 3001, West Dr. Martin Luther King Jr Boulevard, Wellswood, Drew Park, Tampa, Hillsborough County, Florida, 33603, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.511,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Saint Joseph's Hospital",
+                    "house_number": "3001",
+                    "road": "West Dr. Martin Luther King Jr Boulevard",
+                    "neighbourhood": "Wellswood",
+                    "hamlet": "Drew Park",
+                    "city": "Tampa",
+                    "county": "Hillsborough County",
+                    "state": "Florida",
+                    "postcode": "33603",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "St. Luke’s Hospital (Pennsylvania)",
+        "hospital_id": "st.-luke’s-hospital-(pennsylvania)",
+        "hospital_url": "https://www.slhn.org/billpay/patient-billing/standard-charges-for-services-provided",
+        "_id": 74,
+        "geoData": [
+            {
+                "place_id": 285451284,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 798086073,
+                "boundingbox": [
+                    "40.4440912",
+                    "40.4447862",
+                    "-75.3762351",
+                    "-75.3749185"
+                ],
+                "lat": "40.44436545",
+                "lon": "-75.37561148050136",
+                "display_name": "St. Luke's Hospital, St. Luke's Drive, Brick Tavern, Milford, Bucks County, Pennsylvania, 18951, United States of America",
+                "class": "building",
+                "type": "hospital",
+                "importance": 0.511,
+                "address": {
+                    "address29": "St. Luke's Hospital",
+                    "road": "St. Luke's Drive",
+                    "hamlet": "Brick Tavern",
+                    "city": "Milford",
+                    "county": "Bucks County",
+                    "state": "Pennsylvania",
+                    "postcode": "18951",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "St. Luke’s Hospital (San Francisco)",
+        "hospital_id": "st.-luke’s-hospital-(san-francisco)",
+        "hospital_url": "https://www.sutterhealth.org/for-patients/health-care-costs-and-charges",
+        "_id": 75,
+        "geoData": [
+            {
+                "place_id": 234623529,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "relation",
+                "osm_id": 111968,
+                "boundingbox": [
+                    "37.6403143",
+                    "37.929811",
+                    "-123.173825",
+                    "-122.281479"
+                ],
+                "lat": "37.7790262",
+                "lon": "-122.4199061",
+                "display_name": "San Francisco, San Francisco City and County, California, United States of America",
+                "class": "boundary",
+                "type": "administrative",
+                "importance": 1.125130946371304,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+                "address": {
+                    "city": "San Francisco",
+                    "county": "San Francisco City and County",
+                    "state": "California",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Sunrise Hospital and Medical Center",
+        "hospital_id": "sunrise-hospital-and-medical-center",
+        "hospital_url": "https://sunrisehospital.com/about/legal/detail-price-list.dot",
+        "_id": 77,
+        "geoData": [
+            {
+                "place_id": 117283940,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 130591920,
+                "boundingbox": [
+                    "36.1316087",
+                    "36.1359106",
+                    "-115.1367434",
+                    "-115.1339894"
+                ],
+                "lat": "36.13445455",
+                "lon": "-115.13562809133165",
+                "display_name": "Sunrise Hospital & Medical Center, 3186, South Maryland Parkway, Winchester, Clark County, Nevada, 89109, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.7288763567136217,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Sunrise Hospital & Medical Center",
+                    "house_number": "3186",
+                    "road": "South Maryland Parkway",
+                    "locality": "Winchester",
+                    "county": "Clark County",
+                    "state": "Nevada",
+                    "postcode": "89109",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Swedish Medical Center",
+        "hospital_id": "swedish-medical-center",
+        "hospital_url": "https://swedishhospital.com/about/legal/detail-price-list.dot",
+        "_id": 78,
+        "geoData": [
+            {
+                "place_id": 282835755,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 283905706,
+                "boundingbox": [
+                    "39.6532104",
+                    "39.6549114",
+                    "-104.982841",
+                    "-104.9776335"
+                ],
+                "lat": "39.6542801",
+                "lon": "-104.98121539103656",
+                "display_name": "Swedish Medical Center, 501, East Hampden Avenue, Englewood, Arapahoe County, Colorado, 80113, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.47814054651760596,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Swedish Medical Center",
+                    "house_number": "501",
+                    "road": "East Hampden Avenue",
+                    "town": "Englewood",
+                    "county": "Arapahoe County",
+                    "state": "Colorado",
+                    "postcode": "80113",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Tampa General Hospital",
+        "hospital_id": "tampa-general-hospital",
+        "hospital_url": "https://www.tgh.org/patients-visitors/financial-information/hospital-services-and-charges",
+        "_id": 79,
+        "geoData": [
+            {
+                "place_id": 236485992,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "relation",
+                "osm_id": 8050125,
+                "boundingbox": [
+                    "27.9351431",
+                    "27.9397942",
+                    "-82.4611245",
+                    "-82.456738"
+                ],
+                "lat": "27.9375006",
+                "lon": "-82.45889586502793",
+                "display_name": "Tampa General Hospital, 1, Tampa General Circle, Davis Islands, Tampa, Hillsborough County, Florida, 33606, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.5403615466364415,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Tampa General Hospital",
+                    "house_number": "1",
+                    "road": "Tampa General Circle",
+                    "suburb": "Davis Islands",
+                    "city": "Tampa",
+                    "county": "Hillsborough County",
+                    "state": "Florida",
+                    "postcode": "33606",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Temple University Hospital",
+        "hospital_id": "temple-university-hospital",
+        "hospital_url": "https://tuh.templehealth.org/content/pricing-info.htm",
+        "_id": 80,
+        "geoData": [
+            {
+                "place_id": 169748672,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 351470477,
+                "boundingbox": [
+                    "40.0044327",
+                    "40.0061154",
+                    "-75.1520553",
+                    "-75.1494509"
+                ],
+                "lat": "40.005307900000005",
+                "lon": "-75.1508235158642",
+                "display_name": "Temple University Hospital, 3401, North Broad Street, Nicetown, Philadelphia, Philadelphia County, Pennsylvania, 19140, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.5543651946830115,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Temple University Hospital",
+                    "house_number": "3401",
+                    "road": "North Broad Street",
+                    "neighbourhood": "Nicetown",
+                    "city": "Philadelphia",
+                    "county": "Philadelphia County",
+                    "state": "Pennsylvania",
+                    "postcode": "19140",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "The Childrens Hospital of Philadelphia",
+        "hospital_id": "the-childrens-hospital-of-philadelphia",
+        "hospital_url": "https://www.chop.edu/centers-programs/billing-and-insurance/understanding-hospital-charges",
+        "_id": 81,
+        "geoData": [
+            {
+                "place_id": 99742340,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 50033035,
+                "boundingbox": [
+                    "39.945756",
+                    "39.9494434",
+                    "-75.1964975",
+                    "-75.1928893"
+                ],
+                "lat": "39.94769755",
+                "lon": "-75.19498022347875",
+                "display_name": "Children's Hospital of Philadelphia, 3401, Civic Center Boulevard, University City, Philadelphia, Philadelphia County, Pennsylvania, 19104, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.6583764706069639,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Children's Hospital of Philadelphia",
+                    "house_number": "3401",
+                    "road": "Civic Center Boulevard",
+                    "neighbourhood": "University City",
+                    "city": "Philadelphia",
+                    "county": "Philadelphia County",
+                    "state": "Pennsylvania",
+                    "postcode": "19104",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Thomas Jefferson University Hospital",
+        "hospital_id": "thomas-jefferson-university-hospital",
+        "hospital_url": "https://hospitals.jefferson.edu/patients-and-visitors/charge-description-master.html",
+        "_id": 83,
+        "geoData": [
+            {
+                "place_id": 202921309,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 556009518,
+                "boundingbox": [
+                    "39.9485498",
+                    "39.9501536",
+                    "-75.1588947",
+                    "-75.1571455"
+                ],
+                "lat": "39.9493479",
+                "lon": "-75.15801474823724",
+                "display_name": "Thomas Jefferson University Hospital, 111, South 11th Street, Philadelphia, Philadelphia County, Pennsylvania, 19107, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.401,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Thomas Jefferson University Hospital",
+                    "house_number": "111",
+                    "road": "South 11th Street",
+                    "city": "Philadelphia",
+                    "county": "Philadelphia County",
+                    "state": "Pennsylvania",
+                    "postcode": "19107",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "UC San Diego Medical Center",
+        "hospital_id": "uc-san-diego-medical-center",
+        "hospital_url": "https://health.ucsd.edu/patients/billing/standard-charges/Pages/default.aspx",
+        "_id": 86,
+        "geoData": [
+            {
+                "place_id": 97486517,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 44500634,
+                "boundingbox": [
+                    "32.753712",
+                    "32.757218",
+                    "-117.168357",
+                    "-117.1627361"
+                ],
+                "lat": "32.75531155",
+                "lon": "-117.16552466018484",
+                "display_name": "UC San Diego Medical Center, 200, West Arbor Drive, Five Points, Hillcrest, San Diego, San Diego County, California, 92103, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.501,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "UC San Diego Medical Center",
+                    "house_number": "200",
+                    "road": "West Arbor Drive",
+                    "neighbourhood": "Five Points",
+                    "suburb": "Hillcrest",
+                    "city": "San Diego",
+                    "county": "San Diego County",
+                    "state": "California",
+                    "postcode": "92103",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "University Hospital (Lexington)",
+        "hospital_id": "university-hospital-(lexington)",
+        "hospital_url": "https://ukhealthcare.uky.edu/uk-healthcare-rates",
+        "_id": 88,
+        "geoData": [
+            {
+                "place_id": 15706717,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 1451380269,
+                "boundingbox": [
+                    "44.9554005",
+                    "44.9555005",
+                    "-93.1464398",
+                    "-93.1463398"
+                ],
+                "lat": "44.9554505",
+                "lon": "-93.1463898",
+                "display_name": "Lexington Parkway & University Avenue, Lexington Parkway North, Rondo, St. Paul, Ramsey County, Minnesota, 55104, United States of America",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "importance": 0.201,
+                "address": {
+                    "address29": "Lexington Parkway & University Avenue",
+                    "road": "Lexington Parkway North",
+                    "neighbourhood": "Rondo",
+                    "city": "St. Paul",
+                    "county": "Ramsey County",
+                    "state": "Minnesota",
+                    "postcode": "55104",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "University Hospitals Case Medical Center",
+        "hospital_id": "university-hospitals-case-medical-center",
+        "hospital_url": "https://www.uhhospitals.org/patients-and-visitors/billing-insurance-and-medical-records/cms-medicare-price-transparency-initiative",
+        "_id": 89,
+        "geoData": [
+            {
+                "place_id": 180139658,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 408621866,
+                "boundingbox": [
+                    "41.503307",
+                    "41.5085547",
+                    "-81.608448",
+                    "-81.6034676"
+                ],
+                "lat": "41.505776",
+                "lon": "-81.60606906894755",
+                "display_name": "University Hospitals Cleveland Medical Center, 11100, Euclid Avenue, Magnolia-Wade Park Historic District, Little Italy, Cleveland, Cuyahoga County, Ohio, 44106, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.731575982276377,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "University Hospitals Cleveland Medical Center",
+                    "house_number": "11100",
+                    "road": "Euclid Avenue",
+                    "neighbourhood": "Magnolia-Wade Park Historic District",
+                    "suburb": "Little Italy",
+                    "city": "Cleveland",
+                    "county": "Cuyahoga County",
+                    "state": "Ohio",
+                    "postcode": "44106",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "University of Alabama Hospital",
+        "hospital_id": "university-of-alabama-hospital",
+        "hospital_url": "https://www.uabmedicine.org/billing-insurance-and-medical-records",
+        "_id": 91,
+        "geoData": [
+            {
+                "place_id": 107473641,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 89748187,
+                "boundingbox": [
+                    "33.2016136",
+                    "33.2225007",
+                    "-87.5536333",
+                    "-87.5236724"
+                ],
+                "lat": "33.21208215",
+                "lon": "-87.53967401518648",
+                "display_name": "University of Alabama, 8th Avenue, Parkview, Riverside Circle, Tuscaloosa, Tuscaloosa County, Alabama, 35401, United States of America",
+                "class": "amenity",
+                "type": "university",
+                "importance": 0.8599001818888433,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/education_university.p.20.png",
+                "address": {
+                    "university": "University of Alabama",
+                    "road": "8th Avenue",
+                    "neighbourhood": "Parkview",
+                    "hamlet": "Riverside Circle",
+                    "city": "Tuscaloosa",
+                    "county": "Tuscaloosa County",
+                    "state": "Alabama",
+                    "postcode": "35401",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "University of Chicago Hospitals",
+        "hospital_id": "university-of-chicago-hospitals",
+        "hospital_url": "http://search.hospitalpriceindex.com/hospital/the-university-of-chicago-medical-center/5342",
+        "_id": 92,
+        "geoData": [
+            {
+                "place_id": 143690114,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 229438623,
+                "boundingbox": [
+                    "41.7877878",
+                    "41.7925926",
+                    "-87.6060695",
+                    "-87.601316"
+                ],
+                "lat": "41.7904074",
+                "lon": "-87.60488420632774",
+                "display_name": "University of Chicago Medicine Campus, 5481, South Maryland Avenue, Hyde Park, Chicago, Cook County, Illinois, 60637, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.6374656328485748,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "University of Chicago Medicine Campus",
+                    "house_number": "5481",
+                    "road": "South Maryland Avenue",
+                    "neighbourhood": "Hyde Park",
+                    "suburb": "Hyde Park",
+                    "city": "Chicago",
+                    "county": "Cook County",
+                    "state": "Illinois",
+                    "postcode": "60637",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "University of Colorado Hospital",
+        "hospital_id": "university-of-colorado-hospital",
+        "hospital_url": "https://www.uchealth.org/billing-and-pricing-information/",
+        "_id": 93,
+        "geoData": [
+            {
+                "place_id": 3117867,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "node",
+                "osm_id": 358949545,
+                "boundingbox": [
+                    "39.7424935",
+                    "39.7425935",
+                    "-104.841711",
+                    "-104.841611"
+                ],
+                "lat": "39.7425435",
+                "lon": "-104.841661",
+                "display_name": "University of Colorado Hospital, 12605, East 16th Avenue, Sable, Aurora, Adams County, Colorado, 80045, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.6744313097683033,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "University of Colorado Hospital",
+                    "house_number": "12605",
+                    "road": "East 16th Avenue",
+                    "hamlet": "Sable",
+                    "city": "Aurora",
+                    "county": "Adams County",
+                    "state": "Colorado",
+                    "postcode": "80045",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "University of Iowa Hospitals and Clinics",
+        "hospital_id": "university-of-iowa-hospitals-and-clinics",
+        "hospital_url": "https://uihc.org/hospital-services-and-charges",
+        "_id": 95,
+        "geoData": [
+            {
+                "place_id": 191647182,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 473458737,
+                "boundingbox": [
+                    "41.6569977",
+                    "41.6616856",
+                    "-91.5498319",
+                    "-91.5460873"
+                ],
+                "lat": "41.6594014",
+                "lon": "-91.54839872752294",
+                "display_name": "University of Iowa Hospitals & Clinics, 200, Hawkins Drive, Iowa City, Johnson County, Iowa, 52245, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.792582546755277,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "University of Iowa Hospitals & Clinics",
+                    "house_number": "200",
+                    "road": "Hawkins Drive",
+                    "city": "Iowa City",
+                    "county": "Johnson County",
+                    "state": "Iowa",
+                    "postcode": "52245",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "University of Kansas Hospitals",
+        "hospital_id": "university-of-kansas-hospitals",
+        "hospital_url": "https://www.kansashealthsystem.com/patient-visitor/insurance-billing-financial-support/services-fees/charge-descriptions",
+        "_id": 96,
+        "geoData": [
+            {
+                "place_id": 138964661,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 218978291,
+                "boundingbox": [
+                    "38.9770566",
+                    "38.9807616",
+                    "-95.2509965",
+                    "-95.2477932"
+                ],
+                "lat": "38.97944745",
+                "lon": "-95.24881223441034",
+                "display_name": "Lawrence Memorial Hospital, 325, Maine Street, Pinckney, Lawrence, Douglas County, Kansas, 66044, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.21100000000000002,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Lawrence Memorial Hospital",
+                    "house_number": "325",
+                    "road": "Maine Street",
+                    "residential": "Pinckney",
+                    "city": "Lawrence",
+                    "county": "Douglas County",
+                    "state": "Kansas",
+                    "postcode": "66044",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "University of North Carolina Hospital",
+        "hospital_id": "university-of-north-carolina-hospital",
+        "hospital_url": "https://www.unchealthcare.org/about-us/billing-and-financial-assistance/chargemaster/",
+        "_id": 100,
+        "geoData": [
+            {
+                "place_id": 235830905,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "relation",
+                "osm_id": 2882828,
+                "boundingbox": [
+                    "35.8933498",
+                    "35.9164642",
+                    "-79.0923215",
+                    "-79.0269224"
+                ],
+                "lat": "35.90503535",
+                "lon": "-79.04775326525107",
+                "display_name": "University of North Carolina, Old Fraternity Row, Baby Hollow, Chapel Hill, Orange County, North Carolina, 27599-3175, United States of America",
+                "class": "amenity",
+                "type": "university",
+                "importance": 0.9828892121903862,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/education_university.p.20.png",
+                "address": {
+                    "university": "University of North Carolina",
+                    "road": "Old Fraternity Row",
+                    "hamlet": "Baby Hollow",
+                    "town": "Chapel Hill",
+                    "county": "Orange County",
+                    "state": "North Carolina",
+                    "postcode": "27599-3175",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "University of Oklahoma Medical Center",
+        "hospital_id": "university-of-oklahoma-medical-center",
+        "hospital_url": "https://www.oumedicine.com/oumedicine/primary-care/patients-visitors/hospital-financial-assistance/hospital-charges",
+        "_id": 101,
+        "geoData": [
+            {
+                "place_id": 85153820,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 14714162,
+                "boundingbox": [
+                    "35.1933565",
+                    "35.1933677",
+                    "-97.4449636",
+                    "-97.4434853"
+                ],
+                "lat": "35.1933565",
+                "lon": "-97.4449636",
+                "display_name": "University of Oklahoma, Kraettli Apartments, Norman, Cleveland County, Oklahoma, 73072, United States of America",
+                "class": "highway",
+                "type": "service",
+                "importance": 0.385,
+                "address": {
+                    "road": "University of Oklahoma",
+                    "residential": "Kraettli Apartments",
+                    "city": "Norman",
+                    "county": "Cleveland County",
+                    "state": "Oklahoma",
+                    "postcode": "73072",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "University of Texas MD Anderson Cancer Center",
+        "hospital_id": "university-of-texas-md-anderson-cancer-center",
+        "hospital_url": "https://www.mdanderson.org/patients-family/becoming-our-patient/planning-for-care/insurance-billing-financial-support/health-care-disclosures.html",
+        "_id": 103,
+        "geoData": [
+            {
+                "place_id": 100027504,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 51815686,
+                "boundingbox": [
+                    "29.7066558",
+                    "29.7086682",
+                    "-95.3988914",
+                    "-95.3958998"
+                ],
+                "lat": "29.70766895",
+                "lon": "-95.39762257223782",
+                "display_name": "University of Texas MD Anderson Cancer Center, 1515, Holcombe Boulevard, Texas Medical Center, South Lawn, Houston, Harris County, Texas, 77030, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 1.0531904322993817,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "University of Texas MD Anderson Cancer Center",
+                    "house_number": "1515",
+                    "road": "Holcombe Boulevard",
+                    "neighbourhood": "Texas Medical Center",
+                    "hamlet": "South Lawn",
+                    "city": "Houston",
+                    "county": "Harris County",
+                    "state": "Texas",
+                    "postcode": "77030",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "University of Virginia Medical Center",
+        "hospital_id": "university-of-virginia-medical-center",
+        "hospital_url": "https://uvahealth.com/services/billing-insurance/common-prices",
+        "_id": 104,
+        "geoData": [
+            {
+                "place_id": 198035781,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 517817443,
+                "boundingbox": [
+                    "38.0303371",
+                    "38.0344517",
+                    "-78.5024274",
+                    "-78.4962639"
+                ],
+                "lat": "38.0324342",
+                "lon": "-78.499060670954",
+                "display_name": "University of Virginia Medical Center, 1215, Lee Street, Starr Hill, Charlottesville, Virginia, 22908, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.7845321115064418,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "University of Virginia Medical Center",
+                    "house_number": "1215",
+                    "road": "Lee Street",
+                    "hamlet": "Starr Hill",
+                    "city": "Charlottesville",
+                    "state": "Virginia",
+                    "postcode": "22908",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Vanderbilt University Medical Center",
+        "hospital_id": "vanderbilt-university-medical-center",
+        "hospital_url": "https://finance.vumc.org/chargemaster/",
+        "_id": 105,
+        "geoData": [
+            {
+                "place_id": 194008818,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 487124714,
+                "boundingbox": [
+                    "36.1387728",
+                    "36.1429626",
+                    "-86.805065",
+                    "-86.8001174"
+                ],
+                "lat": "36.14092375",
+                "lon": "-86.80163418092431",
+                "display_name": "Vanderbilt University Medical Center, 1211, Medical Center Drive, Cherokee Park, Nashville-Davidson, Davidson County, Tennessee, 37232, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.7277684953714004,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Vanderbilt University Medical Center",
+                    "house_number": "1211",
+                    "road": "Medical Center Drive",
+                    "hamlet": "Cherokee Park",
+                    "city": "Nashville-Davidson",
+                    "county": "Davidson County",
+                    "state": "Tennessee",
+                    "postcode": "37232",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "West Jersey Health System",
+        "hospital_id": "west-jersey-health-system",
+        "hospital_url": "https://www.virtua.org/patient-tools/hospital-charges-information",
+        "_id": 107,
+        "geoData": [
+            {
+                "place_id": 184449832,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 425525335,
+                "boundingbox": [
+                    "40.7502723",
+                    "40.7547524",
+                    "-74.238666",
+                    "-74.2322536"
+                ],
+                "lat": "40.7524681",
+                "lon": "-74.2354658633133",
+                "display_name": "VA New Jersey Health Care System, 385, Tremont Avenue, Orange, Essex County, New Jersey, 07018, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.30100000000000005,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "VA New Jersey Health Care System",
+                    "house_number": "385",
+                    "road": "Tremont Avenue",
+                    "city": "Orange",
+                    "county": "Essex County",
+                    "state": "New Jersey",
+                    "postcode": "07018",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Westchester Medical Center",
+        "hospital_id": "westchester-medical-center",
+        "hospital_url": "https://www.westchestermedicalcenter.com/billing-insurance-and-financial-assistance",
+        "_id": 108,
+        "geoData": [
+            {
+                "place_id": 203357443,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 560862638,
+                "boundingbox": [
+                    "41.0846007",
+                    "41.0900984",
+                    "-73.8094917",
+                    "-73.8032717"
+                ],
+                "lat": "41.087434",
+                "lon": "-73.80669394805594",
+                "display_name": "Westchester Medical Center, 100, Woods Road, Hawthorne, Mount Pleasant, Westchester County, New York, 10595, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.6009387981495774,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Westchester Medical Center",
+                    "house_number": "100",
+                    "road": "Woods Road",
+                    "hamlet": "Hawthorne",
+                    "town": "Mount Pleasant",
+                    "county": "Westchester County",
+                    "state": "New York",
+                    "postcode": "10595",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Winthrop University Hospital",
+        "hospital_id": "winthrop-university-hospital",
+        "hospital_url": "https://www.nyuwinthrop.org/standard-charges",
+        "_id": 110,
+        "geoData": [
+            {
+                "place_id": 150711809,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 256490835,
+                "boundingbox": [
+                    "34.9356655",
+                    "34.943179",
+                    "-81.0386784",
+                    "-81.026062"
+                ],
+                "lat": "34.939120349999996",
+                "lon": "-81.03249239745057",
+                "display_name": "Winthrop University, Ebenezer Avenue, Boyd Hill, Rock Hill, York County, South Carolina, 29731, United States of America",
+                "class": "amenity",
+                "type": "university",
+                "importance": 0.5903352193791243,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/education_university.p.20.png",
+                "address": {
+                    "university": "Winthrop University",
+                    "road": "Ebenezer Avenue",
+                    "hamlet": "Boyd Hill",
+                    "city": "Rock Hill",
+                    "county": "York County",
+                    "state": "South Carolina",
+                    "postcode": "29731",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    },
+    {
+        "hospital_name": "Yale New Haven Hospital",
+        "hospital_id": "yale-new-haven-hospital",
+        "hospital_url": "https://www.ynhh.org/patients-visitors/billing-insurance/pricing.aspx",
+        "_id": 111,
+        "geoData": [
+            {
+                "place_id": 203107025,
+                "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "osm_type": "way",
+                "osm_id": 557148404,
+                "boundingbox": [
+                    "41.3033462",
+                    "41.3054985",
+                    "-72.9368012",
+                    "-72.9344078"
+                ],
+                "lat": "41.3046035",
+                "lon": "-72.93559409819855",
+                "display_name": "Yale New Haven Hospital, 20, York Street, Dwight, City Point, New Haven, New Haven County, Connecticut, 06510, United States of America",
+                "class": "amenity",
+                "type": "hospital",
+                "importance": 0.6191246316339034,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
+                "address": {
+                    "hospital": "Yale New Haven Hospital",
+                    "house_number": "20",
+                    "road": "York Street",
+                    "neighbourhood": "Dwight",
+                    "hamlet": "City Point",
+                    "city": "New Haven",
+                    "county": "New Haven County",
+                    "state": "Connecticut",
+                    "postcode": "06510",
+                    "country": "United States of America",
+                    "country_code": "us"
+                }
+            }
+        ]
+    }
+]

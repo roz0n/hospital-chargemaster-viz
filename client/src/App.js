@@ -120,9 +120,11 @@ const App = () => {
   useEffect(() => {
     async function fetchData() {
       try {
+        // This gets the list of hispitals for the markers
         const data = await fetch("/api/hospitals").then(data => data.json());
 
         if (data.success) {
+          console.log("HOSPITAL DATA", data);
           setData(data);
         } else {
           throw new Error("Error");
@@ -158,6 +160,9 @@ const App = () => {
           )}
 
           <section>
+            {
+              // Map goes here
+            }
             Is sidebar open: {sidebarVisible.toString()}
             <br />
             <button onClick={handleSidebarToggle}>Open sidebar</button>

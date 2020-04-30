@@ -1,7 +1,7 @@
 import React from "react";
 import Radium from "radium";
 
-const ProductListCard = props => {
+const ProductListCard = (props) => {
   const { product, onClick } = props;
   const { label, price, hospitalId } = product;
 
@@ -14,7 +14,7 @@ const ProductListCard = props => {
   };
 
   return (
-    <article style={styles} onClick={e => onClick(e, label, price)}>
+    <article style={styles} onClick={(e) => onClick(e, label, price)}>
       <div>{label}</div>
       <div>{price}</div>
       <div>{hospitalId}</div>
