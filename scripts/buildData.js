@@ -2,7 +2,8 @@ const DataUtil = require("../utils/DataUtil");
 const data = new DataUtil();
 const fs = require("fs");
 const path = require("path");
-const writePath = path.join(__dirname, `./output.json`);
+
+const writePath = path.join(__dirname, `../data/hospitals.json`);
 
 async function rateLimitBy(ms) {
   return new Promise((resolve) => {
@@ -20,13 +21,14 @@ async function rateLimitBy(ms) {
     for (index in allHospitals) {
       await rateLimitBy(1000);
 
-      const geoDataRequest = await data.getHospitalGeo(allHospitals[index].hospital_name);
+      const geoDataRequest = await data.getHospitalGeo(allHospitals[index].hospital_id);
       let hospitalData = {};
 
       if (geoDataRequest.length >= 1) {
         hospitalData = allHospitals[index];
         hospitalData.geo_data = geoDataRequest;
       } else {
+        hospitalData = allHospitals[index];
         hospitalData.geo_data = null;
       }
 

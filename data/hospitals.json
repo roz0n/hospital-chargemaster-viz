@@ -40,6 +40,20 @@
         ]
     },
     {
+        "hospital_name": "Aurora Health Care Metro Inc.",
+        "hospital_id": "aurora-health-care-metro-inc.",
+        "hospital_url": "https://www.aurorahealthcare.org/patients-visitors/billing-payment/health-care-costs#Auroras-Standard-charges",
+        "_id": 1,
+        "geo_data": null
+    },
+    {
+        "hospital_name": "Baptist Health System (San Antonio)",
+        "hospital_id": "baptist-health-system-(san-antonio)",
+        "hospital_url": "https://www.baptisthealthsystem.com/for-patients/insurance-billing/billing-insurance-questions",
+        "_id": 2,
+        "geo_data": null
+    },
+    {
         "hospital_name": "Baptist Hospital (Miami)",
         "hospital_id": "baptist-hospital-(miami)",
         "hospital_url": "https://baptisthealth.net/en/facilities/baptist-hospital-miami/pages/default.aspx",
@@ -98,7 +112,7 @@
                 "display_name": "Baptist Medical Center Jacksonville, 800, Prudential Drive, LaVilla, Brooklyn, Jacksonville, Duval County, Florida, 32207, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 0.6523278476590364,
+                "importance": 0.6423278476590364,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "Baptist Medical Center Jacksonville",
@@ -218,7 +232,7 @@
                 "display_name": "California Pacific Medical Center, 2333, Buchanan Street, Western Addition, San Francisco, San Francisco City and County, California, 94115, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 0.6830818704926234,
+                "importance": 0.6730818704926235,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "California Pacific Medical Center",
@@ -234,6 +248,13 @@
                 }
             }
         ]
+    },
+    {
+        "hospital_name": "California Pacific Medical Center R.K. Davies Medical Center",
+        "hospital_id": "california-pacific-medical-center-r.k.-davies-medical-center",
+        "hospital_url": "https://www.sutterhealth.org/for-patients/health-care-costs-and-charges",
+        "_id": 8,
+        "geo_data": null
     },
     {
         "hospital_name": "Carolinas Medical Center",
@@ -347,6 +368,13 @@
         ]
     },
     {
+        "hospital_name": "Chippenham and Johnston-Willis Medical Center",
+        "hospital_id": "chippenham-and-johnston-willis-medical-center",
+        "hospital_url": "https://chippenhammed.com/about/legal/detail-price-list.dot",
+        "_id": 12,
+        "geo_data": null
+    },
+    {
         "hospital_name": "Cleveland Clinic Hospital",
         "hospital_id": "cleveland-clinic-hospital",
         "hospital_url": "https://my.clevelandclinic.org/patients/billing-insurance/patient-price-lists",
@@ -383,6 +411,13 @@
                 }
             }
         ]
+    },
+    {
+        "hospital_name": "Communityu Regional Medical Center",
+        "hospital_id": "communityu-regional-medical-center",
+        "hospital_url": "https://www.communitymedical.org/for-patients-families/billing-and-insurance/Hospital-Standard-Charges",
+        "_id": 14,
+        "geo_data": null
     },
     {
         "hospital_name": "Cooper University Hospital",
@@ -485,7 +520,7 @@
                 "display_name": "Crozer-Chester Medical Center, 1, Medical Center Boulevard, South Chester, Chester, Delaware County, Pennsylvania, 19013, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 0.411,
+                "importance": 0.401,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "Crozer-Chester Medical Center",
@@ -501,6 +536,13 @@
                 }
             }
         ]
+    },
+    {
+        "hospital_name": "Dallas County Hospital District",
+        "hospital_id": "dallas-county-hospital-district",
+        "hospital_url": "http://www.dallascohospital.org/price-transparency.cfm",
+        "_id": 18,
+        "geo_data": null
     },
     {
         "hospital_name": "Doctors Medical Center of Modesto",
@@ -524,7 +566,7 @@
                 "display_name": "Doctors Medical Center, 1441, Florida Avenue, Aurora, Modesto, Stanislaus County, California, 95350, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 0.511,
+                "importance": 0.501,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "Doctors Medical Center",
@@ -603,7 +645,7 @@
                 "display_name": "Florida, United States of America",
                 "class": "boundary",
                 "type": "administrative",
-                "importance": 0.8612139727980621,
+                "importance": 0.8512139727980621,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
                 "address": {
                     "state": "Florida",
@@ -710,7 +752,7 @@
                 "display_name": "Grossmont, Grossmont Center Drive, Grossmont, La Mesa, San Diego County, California, 91942, United States of America",
                 "class": "railway",
                 "type": "station",
-                "importance": 0.3919504140408089,
+                "importance": 0.38195041404080887,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/transport_train_station2.p.20.png",
                 "address": {
                     "station": "Grossmont",
@@ -827,7 +869,7 @@
                 "display_name": "Hospital of the University of Pennsylvania, 3400, Spruce Street, University City, Philadelphia, Philadelphia County, Pennsylvania, 19104, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 0.8823437491030711,
+                "importance": 0.8723437491030712,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "Hospital of the University of Pennsylvania",
@@ -866,7 +908,7 @@
                 "display_name": "Huntsville Hospital, 101, Sivley Road Southwest, Medical District, Longwood, Huntsville, Madison County, Alabama, 35801, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 0.21100000000000002,
+                "importance": 0.201,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "Huntsville Hospital",
@@ -906,7 +948,7 @@
                 "display_name": "Indiana University Health, 950, North Meridian Street, Old Northside Historic District, Woodruff Place, Indianapolis, Marion County, Indiana, 46208, United States of America",
                 "class": "building",
                 "type": "commercial",
-                "importance": 0.31100000000000005,
+                "importance": 0.30100000000000005,
                 "address": {
                     "address29": "Indiana University Health",
                     "house_number": "950",
@@ -945,7 +987,7 @@
                 "display_name": "Randolph Street, Jackson, Jackson County, Michigan, 49203, United States of America",
                 "class": "historic",
                 "type": "memorial",
-                "importance": 0.11100000000000002,
+                "importance": 0.101,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/tourist_monument.p.20.png",
                 "address": {
                     "road": "Randolph Street",
@@ -1212,7 +1254,7 @@
                 "display_name": "Massachusetts General Hospital, 55, Fruit Street, Downtown Crossing, Beacon Hill, Boston, Suffolk County, Massachusetts, 02114, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 0.7701262496514902,
+                "importance": 0.7601262496514902,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "Massachusetts General Hospital",
@@ -1252,7 +1294,7 @@
                 "display_name": "Medical City Dallas Hospital, 7777, Forest Lane, Gifford, Dallas, Dallas County, Texas, 75243, United States of America",
                 "class": "building",
                 "type": "hospital",
-                "importance": 0.411,
+                "importance": 0.401,
                 "address": {
                     "address29": "Medical City Dallas Hospital",
                     "house_number": "7777",
@@ -1306,6 +1348,13 @@
         ]
     },
     {
+        "hospital_name": "Memorial Hermann Hospital System",
+        "hospital_id": "memorial-hermann-hospital-system",
+        "hospital_url": "https://www.memorialhermann.org/patients-caregivers/pricing-estimates-and-information/",
+        "_id": 40,
+        "geo_data": null
+    },
+    {
         "hospital_name": "Memorial Hermann Texas Medical Center",
         "hospital_id": "memorial-hermann-texas-medical-center",
         "hospital_url": "https://www.memorialhermann.org/patients-caregivers/pricing-estimates-and-information/",
@@ -1327,7 +1376,7 @@
                 "display_name": "Memorial Hermann-Texas Medical Center, 6411, Fannin Street, Texas Medical Center, South Lawn, Houston, Harris County, Texas, 77030, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 0.7602548452552094,
+                "importance": 0.7502548452552094,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "Memorial Hermann-Texas Medical Center",
@@ -1344,6 +1393,13 @@
                 }
             }
         ]
+    },
+    {
+        "hospital_name": "Memorial Hospital for Cancer and Allied Diseases",
+        "hospital_id": "memorial-hospital-for-cancer-and-allied-diseases",
+        "hospital_url": "https://www.mskcc.org/public-notices/chargemaster/download",
+        "_id": 42,
+        "geo_data": null
     },
     {
         "hospital_name": "Memorial Regional Hospital",
@@ -1385,6 +1441,13 @@
         ]
     },
     {
+        "hospital_name": "Methodist Healthcare Hospital (Memphis)",
+        "hospital_id": "methodist-healthcare-hospital-(memphis)",
+        "hospital_url": "https://www.methodisthealth.org/patients-guests/billing-department.dot",
+        "_id": 44,
+        "geo_data": null
+    },
+    {
         "hospital_name": "Methodist Hospital (San Antonio)",
         "hospital_id": "methodist-hospital-(san-antonio)",
         "hospital_url": "https://sahealth.com/about/legal/detail-price-list.dot",
@@ -1422,6 +1485,13 @@
                 }
             }
         ]
+    },
+    {
+        "hospital_name": "Milton S. Hershey Medical Center",
+        "hospital_id": "milton-s.-hershey-medical-center",
+        "hospital_url": "https://hmc.pennstatehealth.org/patients-families-and-visitors/billing-and-medical-records/request-a-price-estimate",
+        "_id": 46,
+        "geo_data": null
     },
     {
         "hospital_name": "Montefiore Medical Center",
@@ -1483,7 +1553,7 @@
                 "display_name": "Morristown Medical Center, 100, Madison Avenue, Morristown, Morris County, New Jersey, 07960, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 0.3357940944999783,
+                "importance": 0.3257940944999783,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "Morristown Medical Center",
@@ -1498,6 +1568,13 @@
                 }
             }
         ]
+    },
+    {
+        "hospital_name": "Mount Sinai Health System – Beth Israel",
+        "hospital_id": "mount-sinai-health-system-–-beth-israel",
+        "hospital_url": "https://www.mountsinai.org/about/insurance/cm-faq-msl",
+        "_id": 49,
+        "geo_data": null
     },
     {
         "hospital_name": "Mount Sinai Hospital",
@@ -1809,6 +1886,20 @@
         ]
     },
     {
+        "hospital_name": "Norton Hospitals Inc.",
+        "hospital_id": "norton-hospitals-inc.",
+        "hospital_url": "http://search.hospitalpriceindex.com/hospital/Norton-Healthcare/5192",
+        "_id": 58,
+        "geo_data": null
+    },
+    {
+        "hospital_name": "Ochsner Clinic Foundation",
+        "hospital_id": "ochsner-clinic-foundation",
+        "hospital_url": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates",
+        "_id": 59,
+        "geo_data": null
+    },
+    {
         "hospital_name": "Ohio State University Hospital",
         "hospital_id": "ohio-state-university-hospital",
         "hospital_url": "https://wexnermedical.osu.edu/patient-and-visitor-guide/patient-pricing-lists",
@@ -1830,7 +1921,7 @@
                 "display_name": "The Ohio State University, Morning Street, Sharon Heights, Olentangy, Columbus, Franklin County, Ohio, 43214, United States of America",
                 "class": "amenity",
                 "type": "university",
-                "importance": 0.9010552600537748,
+                "importance": 0.8910552600537748,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/education_university.p.20.png",
                 "address": {
                     "university": "The Ohio State University",
@@ -1869,7 +1960,7 @@
                 "display_name": "Orlando, 250, Columbia Street, Orlando, Orange County, Florida, 32806, United States of America",
                 "class": "railway",
                 "type": "station",
-                "importance": 0.3932082617679252,
+                "importance": 0.3832082617679252,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/transport_train_station2.p.20.png",
                 "address": {
                     "station": "Orlando",
@@ -1921,6 +2012,13 @@
                 }
             }
         ]
+    },
+    {
+        "hospital_name": "Rainbow Babies and Childrens Hospital",
+        "hospital_id": "rainbow-babies-and-childrens-hospital",
+        "hospital_url": "https://www.uhhospitals.org/patients-and-visitors/billing-insurance-and-medical-records/cms-medicare-price-transparency-initiative",
+        "_id": 63,
+        "geo_data": null
     },
     {
         "hospital_name": "Riverside Methodist Hospital",
@@ -2082,6 +2180,13 @@
         ]
     },
     {
+        "hospital_name": "Scott and White Memorial Hospital",
+        "hospital_id": "scott-and-white-memorial-hospital",
+        "hospital_url": "https://www.bswhealth.com/patient-tools/patient-registration-and-billing/estimate-your-cost-care/Pages/default.aspx",
+        "_id": 68,
+        "geo_data": null
+    },
+    {
         "hospital_name": "Sharp Memorial Hospital",
         "hospital_id": "sharp-memorial-hospital",
         "hospital_url": "https://www.sharp.com/chargemaster/memorial/",
@@ -2218,7 +2323,7 @@
                 "display_name": "Saint Joseph's Hospital, 3001, West Dr. Martin Luther King Jr Boulevard, Wellswood, Drew Park, Tampa, Hillsborough County, Florida, 33603, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 0.511,
+                "importance": 0.501,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "Saint Joseph's Hospital",
@@ -2235,6 +2340,13 @@
                 }
             }
         ]
+    },
+    {
+        "hospital_name": "St. Joseph’s Hospital and Medical Center",
+        "hospital_id": "st.-joseph’s-hospital-and-medical-center",
+        "hospital_url": "https://www.dignityhealth.org/arizona/locations/stjosephs/patients-and-visitors/for-patients/billing-payment-information",
+        "_id": 73,
+        "geo_data": null
     },
     {
         "hospital_name": "St. Luke’s Hospital (Pennsylvania)",
@@ -2258,7 +2370,7 @@
                 "display_name": "St. Luke's Hospital, St. Luke's Drive, Brick Tavern, Milford, Bucks County, Pennsylvania, 18951, United States of America",
                 "class": "building",
                 "type": "hospital",
-                "importance": 0.511,
+                "importance": 0.501,
                 "address": {
                     "address29": "St. Luke's Hospital",
                     "road": "St. Luke's Drive",
@@ -2306,6 +2418,13 @@
                 }
             }
         ]
+    },
+    {
+        "hospital_name": "Stanford Hospitals and Clinics",
+        "hospital_id": "stanford-hospitals-and-clinics",
+        "hospital_url": "https://oshpd.ca.gov/data-and-reports/cost-transparency/hospital-chargemasters/2018-chargemasters/",
+        "_id": 76,
+        "geo_data": null
     },
     {
         "hospital_name": "Sunrise Hospital and Medical Center",
@@ -2405,7 +2524,7 @@
                 "display_name": "Tampa General Hospital, 1, Tampa General Circle, Davis Islands, Tampa, Hillsborough County, Florida, 33606, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 0.5403615466364415,
+                "importance": 0.5303615466364415,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "Tampa General Hospital",
@@ -2483,7 +2602,7 @@
                 "display_name": "Children's Hospital of Philadelphia, 3401, Civic Center Boulevard, University City, Philadelphia, Philadelphia County, Pennsylvania, 19104, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 0.6583764706069639,
+                "importance": 0.6483764706069639,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "Children's Hospital of Philadelphia",
@@ -2499,6 +2618,13 @@
                 }
             }
         ]
+    },
+    {
+        "hospital_name": "The Methodist Hospital (Houston)",
+        "hospital_id": "the-methodist-hospital-(houston)",
+        "hospital_url": "https://www.houstonmethodist.org/for-patients/patient-resources/billing-insurance/charge-description-master/",
+        "_id": 82,
+        "geo_data": null
     },
     {
         "hospital_name": "Thomas Jefferson University Hospital",
@@ -2539,6 +2665,20 @@
         ]
     },
     {
+        "hospital_name": "UC Davis Medical Center",
+        "hospital_id": "uc-davis-medical-center",
+        "hospital_url": "https://health.ucdavis.edu/newsroom/public-reporting/chargemaster.html",
+        "_id": 84,
+        "geo_data": null
+    },
+    {
+        "hospital_name": "UC Irvine Medical Center",
+        "hospital_id": "uc-irvine-medical-center",
+        "hospital_url": "http://www.ucihealth.org/patients-visitors/pricing-transparency",
+        "_id": 85,
+        "geo_data": null
+    },
+    {
         "hospital_name": "UC San Diego Medical Center",
         "hospital_id": "uc-san-diego-medical-center",
         "hospital_url": "https://health.ucsd.edu/patients/billing/standard-charges/Pages/default.aspx",
@@ -2577,6 +2717,13 @@
                 }
             }
         ]
+    },
+    {
+        "hospital_name": "UC San Francisco Medical Center",
+        "hospital_id": "uc-san-francisco-medical-center",
+        "hospital_url": "https://www.ucsfhealth.org/about/pricing-transparency/",
+        "_id": 87,
+        "geo_data": null
     },
     {
         "hospital_name": "University Hospital (Lexington)",
@@ -2656,6 +2803,13 @@
         ]
     },
     {
+        "hospital_name": "University of Wisconsin Madison Hospitals and Clinics",
+        "hospital_id": "university-of-wisconsin-madison-hospitals-and-clinics",
+        "hospital_url": "https://www.uwhealth.org/billing-and-insurance/priceline-pricing-costs/30091",
+        "_id": 90,
+        "geo_data": null
+    },
+    {
         "hospital_name": "University of Alabama Hospital",
         "hospital_id": "university-of-alabama-hospital",
         "hospital_url": "https://www.uabmedicine.org/billing-insurance-and-medical-records",
@@ -2677,7 +2831,7 @@
                 "display_name": "University of Alabama, 8th Avenue, Parkview, Riverside Circle, Tuscaloosa, Tuscaloosa County, Alabama, 35401, United States of America",
                 "class": "amenity",
                 "type": "university",
-                "importance": 0.8599001818888433,
+                "importance": 0.8499001818888433,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/education_university.p.20.png",
                 "address": {
                     "university": "University of Alabama",
@@ -2716,7 +2870,7 @@
                 "display_name": "University of Chicago Medicine Campus, 5481, South Maryland Avenue, Hyde Park, Chicago, Cook County, Illinois, 60637, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 0.6374656328485748,
+                "importance": 0.6274656328485748,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "University of Chicago Medicine Campus",
@@ -2756,7 +2910,7 @@
                 "display_name": "University of Colorado Hospital, 12605, East 16th Avenue, Sable, Aurora, Adams County, Colorado, 80045, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 0.6744313097683033,
+                "importance": 0.6644313097683034,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "University of Colorado Hospital",
@@ -2772,6 +2926,13 @@
                 }
             }
         ]
+    },
+    {
+        "hospital_name": "University of Florida Health Shands",
+        "hospital_id": "university-of-florida-health-shands",
+        "hospital_url": "https://ufhealth.org/pricing-transparency",
+        "_id": 94,
+        "geo_data": null
     },
     {
         "hospital_name": "University of Iowa Hospitals and Clinics",
@@ -2795,7 +2956,7 @@
                 "display_name": "University of Iowa Hospitals & Clinics, 200, Hawkins Drive, Iowa City, Johnson County, Iowa, 52245, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 0.792582546755277,
+                "importance": 0.7825825467552769,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "University of Iowa Hospitals & Clinics",
@@ -2833,7 +2994,7 @@
                 "display_name": "Lawrence Memorial Hospital, 325, Maine Street, Pinckney, Lawrence, Douglas County, Kansas, 66044, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 0.21100000000000002,
+                "importance": 0.201,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "Lawrence Memorial Hospital",
@@ -2849,6 +3010,27 @@
                 }
             }
         ]
+    },
+    {
+        "hospital_name": "University of Massachusetts Memorial Medical Center",
+        "hospital_id": "university-of-massachusetts-memorial-medical-center",
+        "hospital_url": "https://www.umassmemorialhealthcare.org/healthalliance-clinton-hospital/patients-visitors/patient-resources/healthalliance-clinton-pricing-list",
+        "_id": 97,
+        "geo_data": null
+    },
+    {
+        "hospital_name": "University of Michigan Hospitals and Health Centers",
+        "hospital_id": "university-of-michigan-hospitals-and-health-centers",
+        "hospital_url": "https://www.uofmhealth.org/michigan-medicine-standard-charges",
+        "_id": 98,
+        "geo_data": null
+    },
+    {
+        "hospital_name": "University of Minnesota Medical Center",
+        "hospital_id": "university-of-minnesota-medical-center",
+        "hospital_url": "https://www.fairview.org/billing/fairview-patient-billing",
+        "_id": 99,
+        "geo_data": null
     },
     {
         "hospital_name": "University of North Carolina Hospital",
@@ -2910,7 +3092,7 @@
                 "display_name": "University of Oklahoma, Kraettli Apartments, Norman, Cleveland County, Oklahoma, 73072, United States of America",
                 "class": "highway",
                 "type": "service",
-                "importance": 0.385,
+                "importance": 0.375,
                 "address": {
                     "road": "University of Oklahoma",
                     "residential": "Kraettli Apartments",
@@ -2923,6 +3105,13 @@
                 }
             }
         ]
+    },
+    {
+        "hospital_name": "University of Pittsburgh Medical Center Presbyterian Shadyside",
+        "hospital_id": "university-of-pittsburgh-medical-center-presbyterian-shadyside",
+        "hospital_url": "https://www.upmc.com/locations/hospitals/mckeesport/patients-visitors/patient-information/cdm",
+        "_id": 102,
+        "geo_data": null
     },
     {
         "hospital_name": "University of Texas MD Anderson Cancer Center",
@@ -2946,7 +3135,7 @@
                 "display_name": "University of Texas MD Anderson Cancer Center, 1515, Holcombe Boulevard, Texas Medical Center, South Lawn, Houston, Harris County, Texas, 77030, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 1.0531904322993817,
+                "importance": 1.0431904322993817,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "University of Texas MD Anderson Cancer Center",
@@ -2986,7 +3175,7 @@
                 "display_name": "University of Virginia Medical Center, 1215, Lee Street, Starr Hill, Charlottesville, Virginia, 22908, United States of America",
                 "class": "amenity",
                 "type": "hospital",
-                "importance": 0.7845321115064418,
+                "importance": 0.7745321115064417,
                 "icon": "https://nominatim.openstreetmap.org/images/mapicons/health_hospital.p.20.png",
                 "address": {
                     "hospital": "University of Virginia Medical Center",
@@ -3040,6 +3229,13 @@
                 }
             }
         ]
+    },
+    {
+        "hospital_name": "VCU Health System MCV Hospital",
+        "hospital_id": "vcu-health-system-mcv-hospital",
+        "hospital_url": "https://www.vcuhealth.org/locations/vcu-medical-center/billing-and-insurance/price-transparency",
+        "_id": 106,
+        "geo_data": null
     },
     {
         "hospital_name": "West Jersey Health System",
@@ -3117,6 +3313,13 @@
                 }
             }
         ]
+    },
+    {
+        "hospital_name": "William Beaumont Hospital – Royal Oak",
+        "hospital_id": "william-beaumont-hospital-–-royal-oak",
+        "hospital_url": "https://www.beaumont.org/patients-families/billing/pricing",
+        "_id": 109,
+        "geo_data": null
     },
     {
         "hospital_name": "Winthrop University Hospital",
