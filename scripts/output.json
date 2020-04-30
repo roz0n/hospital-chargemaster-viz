@@ -4,7 +4,7 @@
         "hospital_id": "atlanticare-regional-medical-center",
         "hospital_url": "https://www.atlanticare.org/patients-and-visitors/for-patients/billing-and-insurance/hospital-charge-list",
         "_id": 0,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 93213138,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -44,7 +44,7 @@
         "hospital_id": "baptist-hospital-(miami)",
         "hospital_url": "https://baptisthealth.net/en/facilities/baptist-hospital-miami/pages/default.aspx",
         "_id": 3,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 3025760,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -81,7 +81,7 @@
         "hospital_id": "baptist-medical-center-(jacksonville)",
         "hospital_url": "https://www.baptistjax.com/patient-info/billing-and-insurance-information/patient-cost-estimate-request/gross-charges",
         "_id": 4,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 169773158,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -121,7 +121,7 @@
         "hospital_id": "barnes-jewish-hospital",
         "hospital_url": "https://www.bjc.org/For-Patients-Billing-Visitors/Financial-Assistance-Resources/BJC-Hospital-Standard-Charges",
         "_id": 5,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 186139236,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -161,7 +161,7 @@
         "hospital_id": "brigham-and-womens-hospital",
         "hospital_url": "https://www.partners.org/for-patients/Patient-Billing-Financial-Assistance/Hospital-Charge-Listing.aspx",
         "_id": 6,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 235800256,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -201,7 +201,7 @@
         "hospital_id": "california-pacific-medical-center",
         "hospital_url": "https://www.sutterhealth.org/cpmc/for-patients/health-care-costs-and-charges",
         "_id": 7,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 125058345,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -240,7 +240,7 @@
         "hospital_id": "carolinas-medical-center",
         "hospital_url": "https://atriumhealth.org/for-patients-visitors/financial-assistance",
         "_id": 9,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 146477443,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -280,7 +280,7 @@
         "hospital_id": "cedars-sinai-medical-center",
         "hospital_url": "https://www.cedars-sinai.org/billing-insurance.html?_ga=2.134300401.1845895740.1546880925-1879661893.1546880925",
         "_id": 10,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 201663639,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -318,7 +318,7 @@
         "hospital_id": "central-dupage-hospital",
         "hospital_url": "https://www.nm.org/locations/central-dupage-hospital",
         "_id": 11,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 235438610,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -351,7 +351,7 @@
         "hospital_id": "cleveland-clinic-hospital",
         "hospital_url": "https://my.clevelandclinic.org/patients/billing-insurance/patient-price-lists",
         "_id": 13,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 111032438,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -389,7 +389,7 @@
         "hospital_id": "cooper-university-hospital",
         "hospital_url": "https://www.cooperhealth.org/patients-visitors/financial-matters/chargemaster",
         "_id": 15,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 170432048,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -429,7 +429,7 @@
         "hospital_id": "covenant-health-system",
         "hospital_url": "https://www.covenanthealth.org/patients-and-visitors/for-patients/billing-and-payments/pricing/",
         "_id": 16,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 192039404,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -468,7 +468,7 @@
         "hospital_id": "crozer-chester-medical-center",
         "hospital_url": "https://www.crozerkeystone.org/patients-visitors/patient-financial-resources/consumer-price-transparency/",
         "_id": 17,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 203886318,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -507,7 +507,7 @@
         "hospital_id": "doctors-medical-center-of-modesto",
         "hospital_url": "https://www.dmc-modesto.com/for-patients/insurance-financial-support/billing-insurance-questions",
         "_id": 19,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 101351250,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -546,7 +546,7 @@
         "hospital_id": "duke-university-hospital",
         "hospital_url": "https://www.dukehealth.org/paying-for-care/what-duke-charges-services",
         "_id": 20,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 159755487,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -586,7 +586,7 @@
         "hospital_id": "florida-hospital",
         "hospital_url": "https://www.adventhealth.com/pricelist",
         "_id": 21,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 234781235,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -618,7 +618,7 @@
         "hospital_id": "geisinger-medical-center",
         "hospital_url": "https://www.geisinger.org/patient-care/patients-and-visitors/billing-and-insurance/tools-to-use/hospital-charge-list",
         "_id": 22,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 82590418,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -654,7 +654,7 @@
         "hospital_id": "grady-memorial-hospital",
         "hospital_url": "https://www.gradyhealth.org/billing-and-insurance/",
         "_id": 23,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 152034099,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -693,7 +693,7 @@
         "hospital_id": "grossmont-hospital",
         "hospital_url": "https://www.sharp.com/chargemaster/grossmont/",
         "_id": 24,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 72244082,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -731,7 +731,7 @@
         "hospital_id": "hahnemann-university-hospital",
         "hospital_url": "https://www.hahnemannhospital.com/SitePages/For-Patients-and-Visitors/Insurance%20and%20Financial%20Support.aspx",
         "_id": 25,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 284766383,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -770,7 +770,7 @@
         "hospital_id": "henry-ford-hospital",
         "hospital_url": "https://www.henryford.com/visitors/billing/cost-of-care/hospital-standard-charges",
         "_id": 26,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 190650956,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -810,7 +810,7 @@
         "hospital_id": "hospital-of-the-university-of-pennsylvania",
         "hospital_url": "https://www.pennmedicine.org/for-patients-and-visitors/patient-information/insurance-and-billing/financial-transparency/financial-transparency-for-the-hospital-of-the-university-of-pennsylvania",
         "_id": 27,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 99595830,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -849,7 +849,7 @@
         "hospital_id": "huntsville-hospital",
         "hospital_url": "https://www.huntsvillehospital.org/price-transparency",
         "_id": 28,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 196109019,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -889,7 +889,7 @@
         "hospital_id": "indiana-university-health",
         "hospital_url": "https://cdn.iuhealth.org/resources/2019-Charge-CMS-Transparency.txt?mtime=20181221134951",
         "_id": 29,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 134742979,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -928,7 +928,7 @@
         "hospital_id": "jackson-memorial",
         "hospital_url": "http://jacksonhealth.org/hb-221-hb-1175.asp#4",
         "_id": 30,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 275619956,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -964,7 +964,7 @@
         "hospital_id": "jfk-medical-center",
         "hospital_url": "https://jfkmc.com/about/legal/detail-price-list.dot",
         "_id": 31,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 192336885,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1003,7 +1003,7 @@
         "hospital_id": "kennestone-hospital",
         "hospital_url": "https://www.wellstar.org/about-us/policies-procedures/pages/wellstar-hospital-pricing-transparency.aspx",
         "_id": 32,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 82924196,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1039,7 +1039,7 @@
         "hospital_id": "las-palmas-medical-center",
         "hospital_url": "https://laspalmasdelsolhealthcare.com/about/legal/detail-price-list.dot",
         "_id": 33,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 204094154,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1078,7 +1078,7 @@
         "hospital_id": "loma-linda-university-medical-center",
         "hospital_url": "https://oshpd.ca.gov/data-and-reports/cost-transparency/hospital-chargemasters/2018-chargemasters/",
         "_id": 34,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 208239616,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1117,7 +1117,7 @@
         "hospital_id": "long-island-jewish-medical-center",
         "hospital_url": "https://www.northwell.edu/billing-and-insurance/price-transparency",
         "_id": 35,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 203031194,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1157,7 +1157,7 @@
         "hospital_id": "lucile-packard-childrens-hospital",
         "hospital_url": "https://oshpd.ca.gov/data-and-reports/cost-transparency/hospital-chargemasters/2018-chargemasters/",
         "_id": 36,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 116899074,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1195,7 +1195,7 @@
         "hospital_id": "massachusetts-general-hospital",
         "hospital_url": "https://www.partners.org/for-patients/Patient-Billing-Financial-Assistance/Hospital-Charge-Listing.aspx",
         "_id": 37,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 114381090,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1235,7 +1235,7 @@
         "hospital_id": "medical-city-dallas-hospital",
         "hospital_url": "https://medicalcityhospital.com/patient-financial/?page_name=pricing",
         "_id": 38,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 236185542,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1273,7 +1273,7 @@
         "hospital_id": "medical-university-of-south-carolina",
         "hospital_url": "http://scpricepoint.org/ReportINP.aspx",
         "_id": 39,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 236426353,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1310,7 +1310,7 @@
         "hospital_id": "memorial-hermann-texas-medical-center",
         "hospital_url": "https://www.memorialhermann.org/patients-caregivers/pricing-estimates-and-information/",
         "_id": 41,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 139128424,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1350,7 +1350,7 @@
         "hospital_id": "memorial-regional-hospital",
         "hospital_url": "https://www.mhs.net/patients-visitors/billing/charges",
         "_id": 43,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 195499282,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1389,7 +1389,7 @@
         "hospital_id": "methodist-hospital-(san-antonio)",
         "hospital_url": "https://sahealth.com/about/legal/detail-price-list.dot",
         "_id": 45,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 103187875,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1428,7 +1428,7 @@
         "hospital_id": "montefiore-medical-center",
         "hospital_url": "https://www.montefiore.org/information-about-charges",
         "_id": 47,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 155011914,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1466,7 +1466,7 @@
         "hospital_id": "morristown-memorial-hospital",
         "hospital_url": "https://www.atlantichealth.org/patients-visitors/insurance/out-network-insurance.html",
         "_id": 48,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 177292269,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1504,7 +1504,7 @@
         "hospital_id": "mount-sinai-hospital",
         "hospital_url": "https://www.mountsinai.org/about/insurance/cm-faq-msh",
         "_id": 50,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 176060294,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1543,7 +1543,7 @@
         "hospital_id": "new-york-presbyterian-hospital",
         "hospital_url": "https://www.nyp.org/patients-and-visitors/paying-for-care",
         "_id": 51,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 64407202,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1582,7 +1582,7 @@
         "hospital_id": "new-york-university-hospitals-center",
         "hospital_url": "https://med.nyu.edu/standard-charges/form/price-transparency-info-download/confirmation?token=B9bGu4DLNzR-ly23TGOd4NYWvFewtJ6m1K_jDE7nsD8",
         "_id": 52,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 2814685,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1621,7 +1621,7 @@
         "hospital_id": "north-carolina-baptist-hospital",
         "hospital_url": "https://www.wakehealth.edu/Patient-and-Family-Resources/Billing-and-Insurance/Your-Health-Care-Costs",
         "_id": 53,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 189155385,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1660,7 +1660,7 @@
         "hospital_id": "north-shore-university-hospital",
         "hospital_url": "https://www.northwell.edu/billing-and-insurance/price-transparency",
         "_id": 54,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 119912070,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1699,7 +1699,7 @@
         "hospital_id": "northshore-university-health-system",
         "hospital_url": "https://www.northshore.org/about-us/billing/standard-hospital-charges/",
         "_id": 55,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 137276670,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1735,7 +1735,7 @@
         "hospital_id": "northside-hospital",
         "hospital_url": "https://www.northside.com/billing-collections",
         "_id": 56,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 72864585,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1773,7 +1773,7 @@
         "hospital_id": "northwestern-memorial-hospital",
         "hospital_url": "https://www.nm.org/locations/northwestern-memorial-hospital",
         "_id": 57,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 143108295,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1813,7 +1813,7 @@
         "hospital_id": "ohio-state-university-hospital",
         "hospital_url": "https://wexnermedical.osu.edu/patient-and-visitor-guide/patient-pricing-lists",
         "_id": 60,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 235509114,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1852,7 +1852,7 @@
         "hospital_id": "orlando-health",
         "hospital_url": "https://www.orlandohealth.com/patients-and-visitors/patient-financial-resources/pricing-transparency-guide",
         "_id": 61,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 49752986,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1890,7 +1890,7 @@
         "hospital_id": "presbyterian-intercommunity-hospital",
         "hospital_url": "https://www.pihhealth.org/patients-visitors/billing-financial-assistance/cms-hospital-pricing/",
         "_id": 62,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 236257153,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1927,7 +1927,7 @@
         "hospital_id": "riverside-methodist-hospital",
         "hospital_url": "https://www.ohiohealth.com/patients-and-visitors/paying-for-your-care/cost-of-services/",
         "_id": 64,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 93873555,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1967,7 +1967,7 @@
         "hospital_id": "robert-wood-johnson-university-hospital",
         "hospital_url": "https://www.rwjbh.org/rwj-university-hospital-new-brunswick/billing/charges/",
         "_id": 65,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 148569407,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2006,7 +2006,7 @@
         "hospital_id": "ronald-reagan-ucla-medical-center",
         "hospital_url": "https://oshpd.ca.gov/data-and-reports/cost-transparency/hospital-chargemasters/2018-chargemasters/",
         "_id": 66,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 235857613,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2046,7 +2046,7 @@
         "hospital_id": "rush-university-medical-center",
         "hospital_url": "https://www.rush.edu/patients-visitors/patients/pay-your-bill/cost-care",
         "_id": 67,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 144800768,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2086,7 +2086,7 @@
         "hospital_id": "sharp-memorial-hospital",
         "hospital_url": "https://www.sharp.com/chargemaster/memorial/",
         "_id": 69,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 207190744,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2126,7 +2126,7 @@
         "hospital_id": "spectrum-health-hospitals",
         "hospital_url": "https://www.spectrumhealth.org/about-us/average-prices-for-grand-rapids-area",
         "_id": 70,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 220379572,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2162,7 +2162,7 @@
         "hospital_id": "st.-francis-medical-center",
         "hospital_url": "https://www.sfmc.net/billing/price-transparency/",
         "_id": 71,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 124909734,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2201,7 +2201,7 @@
         "hospital_id": "st.-joseph’s-hospital-(tampa)",
         "hospital_url": "https://baycare.org/billing-and-insurance?h=%7BE8674E87-55E2-4279-8327-5C27406EE723%7D",
         "_id": 72,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 196370212,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2241,7 +2241,7 @@
         "hospital_id": "st.-luke’s-hospital-(pennsylvania)",
         "hospital_url": "https://www.slhn.org/billpay/patient-billing/standard-charges-for-services-provided",
         "_id": 74,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 285451284,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2278,7 +2278,7 @@
         "hospital_id": "st.-luke’s-hospital-(san-francisco)",
         "hospital_url": "https://www.sutterhealth.org/for-patients/health-care-costs-and-charges",
         "_id": 75,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 234623529,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2312,7 +2312,7 @@
         "hospital_id": "sunrise-hospital-and-medical-center",
         "hospital_url": "https://sunrisehospital.com/about/legal/detail-price-list.dot",
         "_id": 77,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 117283940,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2350,7 +2350,7 @@
         "hospital_id": "swedish-medical-center",
         "hospital_url": "https://swedishhospital.com/about/legal/detail-price-list.dot",
         "_id": 78,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 282835755,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2388,7 +2388,7 @@
         "hospital_id": "tampa-general-hospital",
         "hospital_url": "https://www.tgh.org/patients-visitors/financial-information/hospital-services-and-charges",
         "_id": 79,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 236485992,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2427,7 +2427,7 @@
         "hospital_id": "temple-university-hospital",
         "hospital_url": "https://tuh.templehealth.org/content/pricing-info.htm",
         "_id": 80,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 169748672,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2466,7 +2466,7 @@
         "hospital_id": "the-childrens-hospital-of-philadelphia",
         "hospital_url": "https://www.chop.edu/centers-programs/billing-and-insurance/understanding-hospital-charges",
         "_id": 81,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 99742340,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2505,7 +2505,7 @@
         "hospital_id": "thomas-jefferson-university-hospital",
         "hospital_url": "https://hospitals.jefferson.edu/patients-and-visitors/charge-description-master.html",
         "_id": 83,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 202921309,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2543,7 +2543,7 @@
         "hospital_id": "uc-san-diego-medical-center",
         "hospital_url": "https://health.ucsd.edu/patients/billing/standard-charges/Pages/default.aspx",
         "_id": 86,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 97486517,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2583,7 +2583,7 @@
         "hospital_id": "university-hospital-(lexington)",
         "hospital_url": "https://ukhealthcare.uky.edu/uk-healthcare-rates",
         "_id": 88,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 15706717,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2620,7 +2620,7 @@
         "hospital_id": "university-hospitals-case-medical-center",
         "hospital_url": "https://www.uhhospitals.org/patients-and-visitors/billing-insurance-and-medical-records/cms-medicare-price-transparency-initiative",
         "_id": 89,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 180139658,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2660,7 +2660,7 @@
         "hospital_id": "university-of-alabama-hospital",
         "hospital_url": "https://www.uabmedicine.org/billing-insurance-and-medical-records",
         "_id": 91,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 107473641,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2699,7 +2699,7 @@
         "hospital_id": "university-of-chicago-hospitals",
         "hospital_url": "http://search.hospitalpriceindex.com/hospital/the-university-of-chicago-medical-center/5342",
         "_id": 92,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 143690114,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2739,7 +2739,7 @@
         "hospital_id": "university-of-colorado-hospital",
         "hospital_url": "https://www.uchealth.org/billing-and-pricing-information/",
         "_id": 93,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 3117867,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2778,7 +2778,7 @@
         "hospital_id": "university-of-iowa-hospitals-and-clinics",
         "hospital_url": "https://uihc.org/hospital-services-and-charges",
         "_id": 95,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 191647182,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2816,7 +2816,7 @@
         "hospital_id": "university-of-kansas-hospitals",
         "hospital_url": "https://www.kansashealthsystem.com/patient-visitor/insurance-billing-financial-support/services-fees/charge-descriptions",
         "_id": 96,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 138964661,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2855,7 +2855,7 @@
         "hospital_id": "university-of-north-carolina-hospital",
         "hospital_url": "https://www.unchealthcare.org/about-us/billing-and-financial-assistance/chargemaster/",
         "_id": 100,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 235830905,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2893,7 +2893,7 @@
         "hospital_id": "university-of-oklahoma-medical-center",
         "hospital_url": "https://www.oumedicine.com/oumedicine/primary-care/patients-visitors/hospital-financial-assistance/hospital-charges",
         "_id": 101,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 85153820,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2929,7 +2929,7 @@
         "hospital_id": "university-of-texas-md-anderson-cancer-center",
         "hospital_url": "https://www.mdanderson.org/patients-family/becoming-our-patient/planning-for-care/insurance-billing-financial-support/health-care-disclosures.html",
         "_id": 103,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 100027504,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -2969,7 +2969,7 @@
         "hospital_id": "university-of-virginia-medical-center",
         "hospital_url": "https://uvahealth.com/services/billing-insurance/common-prices",
         "_id": 104,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 198035781,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -3007,7 +3007,7 @@
         "hospital_id": "vanderbilt-university-medical-center",
         "hospital_url": "https://finance.vumc.org/chargemaster/",
         "_id": 105,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 194008818,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -3046,7 +3046,7 @@
         "hospital_id": "west-jersey-health-system",
         "hospital_url": "https://www.virtua.org/patient-tools/hospital-charges-information",
         "_id": 107,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 184449832,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -3084,7 +3084,7 @@
         "hospital_id": "westchester-medical-center",
         "hospital_url": "https://www.westchestermedicalcenter.com/billing-insurance-and-financial-assistance",
         "_id": 108,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 203357443,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -3123,7 +3123,7 @@
         "hospital_id": "winthrop-university-hospital",
         "hospital_url": "https://www.nyuwinthrop.org/standard-charges",
         "_id": 110,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 150711809,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -3161,7 +3161,7 @@
         "hospital_id": "yale-new-haven-hospital",
         "hospital_url": "https://www.ynhh.org/patients-visitors/billing-insurance/pricing.aspx",
         "_id": 111,
-        "geoData": [
+        "geo_data": [
             {
                 "place_id": 203107025,
                 "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",

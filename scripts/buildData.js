@@ -26,9 +26,11 @@ async function rateLimitBy(ms) {
       if (geoDataRequest.length >= 1) {
         hospitalData = allHospitals[index];
         hospitalData.geo_data = geoDataRequest;
-        dataSetItems.push(hospitalData);
+      } else {
+        hospitalData.geo_data = null;
       }
 
+      dataSetItems.push(hospitalData);
       console.log(`Completed ${dataSetItems.length}/${allHospitals.length}`);
     }
 
