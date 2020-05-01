@@ -1,6 +1,7 @@
 import "./App.css";
 import React, { useEffect, useState } from "react";
 import styled from "styled-components";
+
 import Sidebar from "./components/Sidebar";
 import HospitalMap from "./components/HospitalMap";
 
@@ -19,7 +20,7 @@ const App = () => {
 
         if (data.success) {
           const geoData = data?.data?.map((item) => item.geo_data);
-          
+
           setData(geoData);
           setHospitalData(data?.data);
         } else {
