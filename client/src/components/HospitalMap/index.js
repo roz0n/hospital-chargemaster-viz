@@ -4,7 +4,6 @@ import { Map, Marker, Popup, TileLayer } from "react-leaflet";
 
 const MAPBOX_KEY =
   "pk.eyJ1IjoiYXJub2xkcm96b24iLCJhIjoiY2p0YW02cDlpMGNsdDQ0cDdqaWZia29yMCJ9.pRRQbG5ebhZ_YSz8-an7jw";
-
 const mapOptions = {
   lat: 37.0902,
   lon: -95.7129,
@@ -15,18 +14,29 @@ const mapOptions = {
     zoomControl: false,
     doubleClickZoom: true,
     scrollWheelZoom: true,
-    dragging: true,
+    dragging: false,
     animate: true,
     easeLinearity: 0.35,
   },
 };
 
-const HospitalMap = ({ lat, lon, geoData = [] }) => {
+const HospitalMap = ({
+  lat,
+  lon,
+  geoData = [],
+  activeHospitalId,
+  setActiveHospital,
+}) => {
   const position = [mapOptions.lat, mapOptions.lon];
 
   return (
     <Container>
-      <Map options={mapOptions} center={position} zoom={5}>
+      <Map
+        options={mapOptions}
+        center={position}
+        zoom={5}
+        onPopupClose={() => setActiveHospital(null)}
+      >
         <TileLayer
           attribution={mapOptions.attribution}
           url={mapOptions.url}
@@ -35,9 +45,13 @@ const HospitalMap = ({ lat, lon, geoData = [] }) => {
         {geoData?.map((hospital, i) => {
           if (hospital) {
             return (
-              <Marker position={[hospital[0]?.lat, hospital[0]?.lon]}>
+              <Marker
+                key={`hospital-icon-${i}`}
+                position={[hospital?.lat, hospital?.lon]}
+                onClick={() => setActiveHospital(hospital?.place_id)}
+              >
                 <Popup>
-                  <p>{hospital[0] && hospital[0].display_name}</p>
+                  <p>{hospital?.display_name}</p>
                 </Popup>
               </Marker>
             );

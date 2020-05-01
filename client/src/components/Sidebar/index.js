@@ -1,11 +1,10 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-
 import ProductList from "../ProductList";
 import SidebarTotalPanel from "../SidebarTotalPanel";
+import HospitalCard from "../HospitalCard";
 
-const Sidebar = ({ productList = [] }) => {
-  const [activeHospitalId, setActiveHospitalId] = useState(null);
+const Sidebar = ({ productList = [], activeHospitalData }) => {
   const [selectedProducts, setSelectedProducts] = useState({});
 
   const Message = styled.div({
@@ -16,9 +15,18 @@ const Sidebar = ({ productList = [] }) => {
 
   return (
     <Container>
-      <Content>
-        <Message>Select a hospital from the map to view its inventory</Message>
-      </Content>
+      {activeHospitalData ? (
+        <HospitalCard name={activeHospitalData.hospital_name} />
+      ) : (
+        <>
+          <header>Hospital Chargemaster</header>
+          <Content>
+            <Message>
+              Select a hospital from the map to view its inventory
+            </Message>
+          </Content>
+        </>
+      )}
 
       {productList && (
         <ProductList
@@ -34,18 +42,19 @@ const Sidebar = ({ productList = [] }) => {
 };
 
 const Container = styled.article({
-  position: "relative",
+  display: "grid",
+  gridTemplateRows: "minmax(75px, auto) 1fr 5rem",
   boxSizing: "border-box",
   height: "100vh",
   width: "100%",
 });
 
 const Content = styled.div({
+  backgroundColor: "yellow",
   height: "100%",
   display: "flex",
-  justifyContent: "space-around",
-  flexDirection: "column",
   alignItems: "center",
+  overflowY: "scroll",
 });
 
 export default Sidebar;

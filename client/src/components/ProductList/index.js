@@ -3,15 +3,120 @@ import styled from "styled-components";
 
 import ProductListCard from "../ProductList/ProductListCard";
 
-const ProductList = ({ productList, handleSelection }) => {
+const sampleProducts = [
+  {
+    label: "Medicine 20MG",
+    price: 90000,
+    hospitalId: 12,
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12,
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12,
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12,
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12,
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12,
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12,
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12,
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12,
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12,
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12,
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12,
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12,
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12,
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12,
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12,
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12,
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12,
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12,
+  },
+  {
+    label: "Some drillbut 12MM",
+    price: 562,
+    hospitalId: 12,
+  },
+  {
+    label: "Towel 2-Pack",
+    price: 125,
+    hospitalId: 12,
+  },
+];
+
+const ProductList = ({ productList = sampleProducts, handleSelection }) => {
   return (
     <Container>
-      {productList &&
-        productList.map((product) => {
-          return (
-            <ProductListCard product={product} onClick={handleSelection} />
-          );
-        })}
+      {sampleProducts.map((product) => {
+        return <ProductListCard product={product} onClick={handleSelection} />;
+      })}
     </Container>
   );
 };
@@ -19,6 +124,7 @@ const ProductList = ({ productList, handleSelection }) => {
 const Container = styled.article({
   height: "100%",
   overflowY: "scroll",
+  backgroundColor: "cyan",
 });
 
 export default ProductList;

@@ -1,9 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-const SidebarTotalPanel = (props) => {
-  const { total = 0 } = props;
-
+const SidebarTotalPanel = ({ total = 0 }) => {
   return (
     <Panel>
       <section>

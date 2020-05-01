@@ -21,12 +21,14 @@ async function rateLimitBy(ms) {
     for (index in allHospitals) {
       await rateLimitBy(1000);
 
-      const geoDataRequest = await data.getHospitalGeo(allHospitals[index].hospital_id);
+      const geoDataRequest = await data.getHospitalGeo(
+        allHospitals[index].hospital_id
+      );
       let hospitalData = {};
 
       if (geoDataRequest.length >= 1) {
         hospitalData = allHospitals[index];
-        hospitalData.geo_data = geoDataRequest;
+        hospitalData.geo_data = geoDataRequest[0];
       } else {
         hospitalData = allHospitals[index];
         hospitalData.geo_data = null;
