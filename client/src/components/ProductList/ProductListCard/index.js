@@ -1,24 +1,24 @@
 import React from "react";
+import styled from "styled-components";
 
-const ProductListCard = (props) => {
-  const { product, onClick } = props;
+const ProductListCard = ({ product }) => {
   const { label, price, hospitalId } = product;
 
-  const styles = {
-    boxSizing: "border-box",
-    backgroundColor: "#FFFFFF",
-    margin: ".5rem",
-    padding: ".25rem",
-    borderRadius: "2px",
-  };
-
   return (
-    <article style={styles} onClick={(e) => onClick(e, label, price)}>
+    <Container onClick={() => console.log("fdfhjdsfhsdjf")}>
       <div>{label}</div>
       <div>{price}</div>
       <div>{hospitalId}</div>
-    </article>
+    </Container>
   );
 };
+
+const Container = styled.article({
+  boxSizing: "border-box",
+  backgroundColor: "#FFFFFF",
+  margin: ".5rem",
+  padding: ".25rem",
+  borderRadius: "2px",
+});
 
 export default ProductListCard;

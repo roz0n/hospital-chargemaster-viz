@@ -19,6 +19,7 @@ const App = () => {
 
         if (data.success) {
           const geoData = data?.data?.map((item) => item.geo_data);
+          
           setData(geoData);
           setHospitalData(data?.data);
         } else {
@@ -47,10 +48,7 @@ const App = () => {
             setActiveHospital={setActiveHospitalId}
             activeHospitalId={activeHospitalId}
           />
-          <Sidebar
-            activeHospitalData={activeHospitalData}
-            activeHospital={activeHospitalId}
-          />
+          <Sidebar activeHospitalData={activeHospitalData} />
         </Layout>
       )}
     </main>
