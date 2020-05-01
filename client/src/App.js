@@ -1,119 +1,121 @@
 import "./App.css";
 import React, { useEffect, useState } from "react";
 import styled from "styled-components";
+
 import Sidebar from "./components/Sidebar";
 import HospitalMap from "./components/HospitalMap";
 
-const sampleProducts = [
-  {
-    label: "Medicine 20MG",
-    price: 90000,
-    hospitalId: 12,
-  },
-  {
-    label: "Some drillbut 12MM",
-    price: 562,
-    hospitalId: 12,
-  },
-  {
-    label: "Towel 2-Pack",
-    price: 125,
-    hospitalId: 12,
-  },
-  {
-    label: "Some drillbut 12MM",
-    price: 562,
-    hospitalId: 12,
-  },
-  {
-    label: "Towel 2-Pack",
-    price: 125,
-    hospitalId: 12,
-  },
-  {
-    label: "Some drillbut 12MM",
-    price: 562,
-    hospitalId: 12,
-  },
-  {
-    label: "Towel 2-Pack",
-    price: 125,
-    hospitalId: 12,
-  },
-  {
-    label: "Some drillbut 12MM",
-    price: 562,
-    hospitalId: 12,
-  },
-  {
-    label: "Towel 2-Pack",
-    price: 125,
-    hospitalId: 12,
-  },
-  {
-    label: "Some drillbut 12MM",
-    price: 562,
-    hospitalId: 12,
-  },
-  {
-    label: "Towel 2-Pack",
-    price: 125,
-    hospitalId: 12,
-  },
-  {
-    label: "Some drillbut 12MM",
-    price: 562,
-    hospitalId: 12,
-  },
-  {
-    label: "Towel 2-Pack",
-    price: 125,
-    hospitalId: 12,
-  },
-  {
-    label: "Some drillbut 12MM",
-    price: 562,
-    hospitalId: 12,
-  },
-  {
-    label: "Towel 2-Pack",
-    price: 125,
-    hospitalId: 12,
-  },
-  {
-    label: "Some drillbut 12MM",
-    price: 562,
-    hospitalId: 12,
-  },
-  {
-    label: "Towel 2-Pack",
-    price: 125,
-    hospitalId: 12,
-  },
-  {
-    label: "Some drillbut 12MM",
-    price: 562,
-    hospitalId: 12,
-  },
-  {
-    label: "Towel 2-Pack",
-    price: 125,
-    hospitalId: 12,
-  },
-  {
-    label: "Some drillbut 12MM",
-    price: 562,
-    hospitalId: 12,
-  },
-  {
-    label: "Towel 2-Pack",
-    price: 125,
-    hospitalId: 12,
-  },
-];
+// const sampleProducts = [
+//   {
+//     label: "Medicine 20MG",
+//     price: 90000,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Some drillbut 12MM",
+//     price: 562,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Towel 2-Pack",
+//     price: 125,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Some drillbut 12MM",
+//     price: 562,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Towel 2-Pack",
+//     price: 125,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Some drillbut 12MM",
+//     price: 562,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Towel 2-Pack",
+//     price: 125,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Some drillbut 12MM",
+//     price: 562,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Towel 2-Pack",
+//     price: 125,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Some drillbut 12MM",
+//     price: 562,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Towel 2-Pack",
+//     price: 125,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Some drillbut 12MM",
+//     price: 562,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Towel 2-Pack",
+//     price: 125,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Some drillbut 12MM",
+//     price: 562,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Towel 2-Pack",
+//     price: 125,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Some drillbut 12MM",
+//     price: 562,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Towel 2-Pack",
+//     price: 125,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Some drillbut 12MM",
+//     price: 562,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Towel 2-Pack",
+//     price: 125,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Some drillbut 12MM",
+//     price: 562,
+//     hospitalId: 12,
+//   },
+//   {
+//     label: "Towel 2-Pack",
+//     price: 125,
+//     hospitalId: 12,
+//   },
+// ];
 
 const App = () => {
   const [data, setData] = useState(null);
+  const [hospitalData, setHospitalData] = useState(null);
   const [error, setError] = useState(null);
 
   useEffect(() => {
@@ -125,7 +127,11 @@ const App = () => {
 
         if (data.success) {
           const geoData = data?.data?.map((item) => item.geo_data);
+
           setData(geoData);
+          setHospitalData(data?.data);
+
+          console.log("All hospitals", data?.data);
         } else {
           throw new Error("Error");
         }
@@ -146,7 +152,7 @@ const App = () => {
       ) : (
         <Layout>
           <HospitalMap geoData={data} />
-          <Sidebar productList={sampleProducts} />
+          <Sidebar />
         </Layout>
       )}
     </main>
@@ -157,7 +163,7 @@ const Layout = styled.div({
   display: "grid",
   gridTemplateColumns: "1fr 300px",
   width: `100%`,
-  overflowX: "hidden",
+  overflow: "hidden",
 });
 
 export default App;

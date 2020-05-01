@@ -1,20 +1,24 @@
 import React from "react";
+import styled from "styled-components";
+
 import ProductListCard from "../ProductList/ProductListCard";
 
-const ProductList = (props) => {
-  const { productList, handleSelection } = props;
-  const styles = {
-    height: "100%",
-    overflowY: "scroll",
-  };
-
+const ProductList = ({ productList, handleSelection }) => {
   return (
-    <article style={styles}>
-      {productList?.map((product) => {
-        return <ProductListCard product={product} onClick={handleSelection} />;
-      })}
-    </article>
+    <Container>
+      {productList &&
+        productList.map((product) => {
+          return (
+            <ProductListCard product={product} onClick={handleSelection} />
+          );
+        })}
+    </Container>
   );
 };
+
+const Container = styled.article({
+  height: "100%",
+  overflowY: "scroll",
+});
 
 export default ProductList;
