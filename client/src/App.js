@@ -1,8 +1,8 @@
 import "./App.css";
 import React, { useEffect, useState } from "react";
-import Radium from "radium";
-import { slideInRight } from "react-animations";
+import styled from "styled-components";
 import Sidebar from "./components/Sidebar";
+import HospitalMap from "./components/HospitalMap";
 
 const sampleProducts = [
   {
@@ -115,17 +115,17 @@ const sampleProducts = [
 const App = () => {
   const [data, setData] = useState(null);
   const [error, setError] = useState(null);
-  const [sidebarVisible, setSidebarVisible] = useState(false);
 
   useEffect(() => {
     async function fetchData() {
       try {
-        // This gets the list of hispitals for the markers
-        const data = await fetch("/api/hospitals").then(data => data.json());
+        const data = await fetch("/api/all-hospitals").then((data) =>
+          data.json()
+        );
 
         if (data.success) {
-          console.log("HOSPITAL DATA", data);
-          setData(data);
+          const geoData = data?.data?.map((item) => item.geo_data);
+          setData(geoData);
         } else {
           throw new Error("Error");
         }
@@ -139,45 +139,25 @@ const App = () => {
     }
   }, [data, setData]);
 
-  function handleSidebarToggle() {
-    setSidebarVisible(!sidebarVisible);
-  }
-
   return (
     <main>
       {error ? (
         <div>{error}</div>
       ) : (
-        <div>
-          {sidebarVisible && (
-            <section style={styles.slideIn}>
-              <Sidebar
-                productList={sampleProducts}
-                isVisible={sidebarVisible}
-                toggleVisibility={handleSidebarToggle}
-              />
-            </section>
-          )}
-
-          <section>
-            {
-              // Map goes here
-            }
-            Is sidebar open: {sidebarVisible.toString()}
-            <br />
-            <button onClick={handleSidebarToggle}>Open sidebar</button>
-          </section>
-        </div>
+        <Layout>
+          <HospitalMap geoData={data} />
+          <Sidebar productList={sampleProducts} />
+        </Layout>
       )}
     </main>
   );
 };
 
-const styles = {
-  slideIn: {
-    animation: "x .25s",
-    animationName: Radium.keyframes(slideInRight, "slideInRight"),
-  },
-};
+const Layout = styled.div({
+  display: "grid",
+  gridTemplateColumns: "1fr 300px",
+  width: `100%`,
+  overflowX: "hidden",
+});
 
-export default Radium(App);
+export default App;

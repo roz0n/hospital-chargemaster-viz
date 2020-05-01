@@ -1,5 +1,4 @@
 import React from "react";
-import Radium from "radium";
 
 const ProductListCard = (props) => {
   const { product, onClick } = props;
@@ -22,4 +21,4 @@ const ProductListCard = (props) => {
   );
 };
 
-export default Radium(ProductListCard);
+export default ProductListCard;
