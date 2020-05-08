@@ -114,7 +114,7 @@ const sampleProducts = [
 const ProductList = ({ productList = sampleProducts, handleSelection }) => {
   return (
     <Container>
-      {sampleProducts.map((product) => {
+      {productList?.map((product) => {
         return <ProductListCard product={product} onClick={handleSelection} />;
       })}
     </Container>

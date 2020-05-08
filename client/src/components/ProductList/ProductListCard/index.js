@@ -2,13 +2,13 @@ import React from "react";
 import styled from "styled-components";
 
 const ProductListCard = ({ product }) => {
-  const { label, price, hospitalId } = product;
+  const { description, price } = product;
 
   return (
     <Container onClick={() => console.log("fdfhjdsfhsdjf")}>
-      <div>{label}</div>
+      <div>{description}</div>
       <div>{price}</div>
-      <div>{hospitalId}</div>
+      {/* <div>{hospitalId}</div> */}
     </Container>
   );
 };

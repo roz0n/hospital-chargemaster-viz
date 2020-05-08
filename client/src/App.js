@@ -27,7 +27,7 @@ const App = () => {
           throw new Error("Error");
         }
       } catch (error) {
-        setError(error.message || false);
+        setError(error.message || true);
       }
     }
 
@@ -49,7 +49,12 @@ const App = () => {
             setActiveHospital={setActiveHospitalId}
             activeHospitalId={activeHospitalId}
           />
-          <Sidebar activeHospitalData={activeHospitalData} />
+          <Sidebar
+            activeHospitalData={activeHospitalData}
+            activeHospitalName={
+              activeHospitalData && activeHospitalData.hospital_id
+            }
+          />
         </Layout>
       )}
     </main>

@@ -2,6 +2,7 @@ const DataUtil = require("../utils/DataUtil");
 const data = new DataUtil();
 const fs = require("fs");
 const path = require("path");
+const db = require("../db");
 
 const writePath = path.join(__dirname, `../data/hospitals.json`);
 
@@ -14,6 +15,7 @@ async function rateLimitBy(ms) {
 (async () => {
   console.log("Building data set...");
 
+  // Handle geojson file creation
   try {
     const allHospitals = await data.getHospitalList();
     const dataSetItems = [];
@@ -48,5 +50,14 @@ async function rateLimitBy(ms) {
       "Error obtaining chargemaster hospitals list... is the API down?",
       error.message
     );
+
+    return;
+  }
+
+  // Handle creating database tables
+  try {
+    
+  } catch (error) {
+    
   }
 })();
